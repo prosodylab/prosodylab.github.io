@@ -20,31 +20,29 @@ Investigating prosody requires integrating insights from different disciplines, 
 
 ***
 
-**Principal Investigator:** [Michael Wagner](http://www.mcgill.ca/linguistics/people/faculty/wagner) [[CV](http://prosodylab.cs.mcgill.ca/~chael/cv.pdf)]&nbsp;
-
-[![ORCID iD icon]({{ site.baseurl }}/assets/images/2012/06/orcid_16x16.png)](https://orcid.org/0000-0003-2953-106X)
+**Principal Investigator:** [Michael Wagner](http://www.mcgill.ca/linguistics/people/faculty/wagner) [[CV](http://prosodylab.cs.mcgill.ca/~chael/cv.pdf)]&nbsp; [![ORCID iD icon]({{ site.baseurl }}/assets/images/2012/06/orcid_16x16.png)](https://orcid.org/0000-0003-2953-106X)
 
 **Current graduate students:**
 
-Alex Göbel, Humboldt postdoctoral fellow: Project on focus operators and intonation
+* Alex Göbel, Humboldt postdoctoral fellow: Project on focus operators and intonation
 
-Gouming Martens (co-supervised with Francisco Torreira): Project on topics and intonation
+* Gouming Martens (co-supervised with Francisco Torreira): Project on topics and intonation
 
-Masashi Harada (co-supervised with Bernhard Schwarz). Project on cumulativity
+* Masashi Harada (co-supervised with Bernhard Schwarz). Project on cumulativity
 
-Wei Zhang (co-supervised with Meghan Clayards): Project on phrasing and focus
+* Wei Zhang (co-supervised with Meghan Clayards): Project on phrasing and focus
 
+<br>
 
 ### Current undergraduate students working in the lab:
 
 Massimo Lipari, Asa Kohn, Sijia Zhang
 
+&nbsp;
+&nbsp;
 
-## Supervised student work:
 
-
-### Graduate students 
-
+## Supervised work by graduate students:
 
 Sepideh Mortazavinia: Project on _even_
 
@@ -107,29 +105,49 @@ Steffani Scheer. McGill '09, project on topicalization. Lab Manager 2009-2010.
 
 ## Past Events
 
-<p><a href="http://prosodylab.cs.mcgill.ca/events/focus-givenness-topic/">Focus, Givenness, Topic: Prosodic effects and interactions with syntax</a>. Class at the Graz summer school on word order and intonation</p><br>
+<p><a href="http://prosodylab.cs.mcgill.ca/events/focus-givenness-topic/">Focus, Givenness, Topic: Prosodic effects and interactions with syntax</a>. Class at the Graz summer school on word order and intonation</p>
 
 <p>The Phonology-Syntax Interface. Class co-taught with <a href="http://user.uni-frankfurt.de/~cfery/">Caroline Féry</a> at the 2nd Crete Summer School of Linguistics.</p>
 
 <p>Prosody and Incremental Processing. Class taught at the <a href="http://www.uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-833/ev/dgfs-summer-school-2016-sfb-833.html">DGFS summer school in Tübingen on Mapping Meaning: Theory - Cognition - Variation</a>, August 15th - 26th, 2016 in Tübingen/Germany. <a href="http://www.sfb833.uni-tuebingen.de/ev/dgfs-summer-school-2016-sfb-833/courses/b-cognition/b3-wagner.html">abtract</a></p>
+
 <p><a href="http://dgwatson.wix.com/etap3">ETAP 3 </a>.Experimental and Theoretical Advances in Prosody 3: Prosodic  Variability. September 23--25 2011. Co-organized with <a href="http://www.psychology.illinois.edu/people/dgwatson">Duane Watson</a> and <a href="http://chigusakurumada.jimdo.com/">Chigusa Kurumada</a>. <a href="https://www.journal-labphon.org/collections/special/prosodic-variability/">Special issue of Laboratory Phonology</a></p>
+
 <p><a href="http://prosodylab.org/2015/lalala/">LaLaLa</a>. Language labs meeting. Join workshop with students from <a href="http://www.mcgill.ca/linguistics/people/faculty/clayards">Meghan Clayards</a>'s <a href="http://speechlearning.lab.mcgill.ca/">Speech Learning Lab</a>, <a href="http://www.bcs.rochester.edu/people/fjaeger/">Florian Jaeger</a>'s <a href="http://www.hlp.rochester.edu/">HLP lab</a>, <a href="http://chigusakurumada.jimdo.com/">Chigusa Kurumada</a>'s <a href="http://chigusakurumada.jimdo.com/">Kinder Lab</a>, <a href="http://people.linguistics.mcgill.ca/~morgan/">Morgan Sonderegger</a>'s lab, and <a href="http://www.mcgill.ca/linguistics/people/faculty/wagner">Michael Wagner</a>'s <a href="http://prosodylab.org/">prosody.lab</a>.</p>
+
 <p><a href="http://eti3mcgill.wix.com/eti3">ETI 3: Prosody and Constituent Structure</a>---
 McGill, May 2014 Co-organized with [Emily Elfner](http://emilyelfner.sites.olt.ubc.ca/).
+</p>
 
+<p>
 [Contextual Effects on Prosodic Prominence](http://prosodylab.org/participate/ealing-2012/). Course at [EALing 2012](http://ealing.cognition.ens.fr/ealing2012/site/HomePage). September 14-16 2012.
+</p>
 
+<p>
 [ETAP 2](http://prosodylab.org/etap/)&nbsp;.Experimental and Theoretical Advances in Prosody: Prosody and Context. McGill University. September 23--25 2011. Co-organized with [Duane Watson](http://www.psychology.illinois.edu/people/dgwatson) and [Ted Gibson](http://tedlab.mit.edu/).&nbsp; [Special issue of Language, Cognition and Neuroscience](https://www.tandfonline.com/toc/plcp21/30/1-2?nav=tocList).
+/<p>
 
+<p>
 [Prosody in the lab](https://verbs.colorado.edu/LSA2011/courses/59.html). Class taught&nbsp; at the [LSA Institute](http://verbs.colorado.edu/LSA2011/) at the [University of Colorado in Boulder](http://www.colorado.edu/).&nbsp;July 7--August 2 2011
+</p>
 
+<p>
 [Phonology in the 21st Century.](http://www.mcgill.ca/linguistics/events/previous/phonology21stcentury) Conference in honor of [Glyne Piggott](http://www.mcgill.ca/linguistics/people/piggott). Co-organized with [Heather Goad](http://www.mcgill.ca/linguistics/people/goad) and Keren Rice.
+</p>
 
+<p>
 [WOMM](http://prosodylab.org/?p=407). Workshop on mixed model regression. May 4 2010. (organized as part of GRIPP, conducted by [Florian Jaeger](http://www.bcs.rochester.edu/people/fjaeger/), [Peter Graff](http://web.mit.edu/graff/www/), [Maureen Gillespie](https://sites.google.com/site/gillespiemaureen/))
+</p>
 
+<p>
 [MOSAIC](http://mosaic2.wordpress.com/). Meeting of Semanticists Active in Canada. Montréal, June 1 2010. Co-organized with [Junko Shimoyama](http://www.mcgill.ca/linguistics/people/shimoyama/) and others.
+</p>
 
+<p>
 [ETAP](http://www.prosodylab.org/~chael/etap/) Experimental and Theoretical Advances in Prosody Cornell University. April 11-13 2008. ([conference website](http://prosody08.wordpress.com/)&nbsp;, [program](http://www.prosodylab.org/~chael/etap/)). Co-organized with [Duane Watson](http://www.psychology.illinois.edu/people/dgwatson) and [Ted Gibson](http://tedlab.mit.edu/). Papers from the first conference were published in a [special issue](https://www.crcpress.com/Experimental-and-Theoretical-Advances-in-Prosody-A-Special-Issue-of-Language/Watson-Wagner-Gibson/p/book/9781848727403) of the journal _Language and Cognitive Processes_.
+</p>
 
+<p>
 [SPINE](http://www.prosodylab.org/~chael/www/spine/) Syntax and Prosody in the Northeast. Cornell University. May 5 2007
+</p>
 
