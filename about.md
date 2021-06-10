@@ -1,13 +1,150 @@
 ---
 layout: page
-title: About
+title: about
 sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  This is the home of Michael Wagner's prosodylab, at the McGill Department of Linguistics. There's are other labs working on prosody in our department, check out the labs of Meghan Clayards, Francisco Torreira, [Morgan Sonderegger](http://people.linguistics.mcgill.ca/~morgan/). 
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+'Prosody' encompasses all those acoustic aspects of an utterance that are not due to the choice of words, but reflect syntactic grouping, emphasis, negotiate turn-taking, reflect emotional attitude, or distinguish different speech acts. Our research addresses two key questions: (i) What information about speaker and context is reflected in prosody? (ii) How much of this information is retrieved by the listener, and how is it used in speech processing?
+
+Prosody is partly the result of processing effects such as planning and lexical retrieval and partly it itself is part of the message, and encodes important information. We all have internalized intricate conventions about prosody, just like we have internalized conventions about what particular words mean and how they can be combined to form sentences. So part of our research is trying to better understand how languages differ in their prosodic grammars.
+
+Investigating prosody requires integrating insights from different disciplines, including psycho-linguistics experimentation, signal processing and modelling the semantics and pragmatics of prosody, and our lab tries to do just that...
+
+***
+
+## People 
+
+_Principal Investigator:_ [Michael Wagner](http://www.mcgill.ca/linguistics/people/faculty/wagner) [[CV](http://prosodylab.cs.mcgill.ca/~chael/cv.pdf)]&nbsp;
+
+[![ORCID iD icon]({{ site.baseurl }}/assets/images/2012/06/orcid_16x16.png)](https://orcid.org/0000-0003-2953-106X)
+
+_Graduate Students:_
+
+Gouming Martens: Project on Intonational Meaning
+
+Sepideh Mortazavinia: Project on _even_
+
+[Liz Smeets](http://lizsmeets.wordpress.com/): Project on Reconstruction and _only_
+
+[Dan Goodhue](http://www.danielgoodhue.com/) (2018) [Asking and answering biased polar questions](http://ling.auf.net/lingbuzz/003956). Doctoral Dissertation, McGill University (co-supervised with [Bernhard Schwarz](http://sites.google.com/site/bernhardschwarz2003/) and [Luis Alonso-Ovalle](http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/index.html))
+
+[Oriana Kilbourn](http://people.linguistics.mcgill.ca/~oriana.kilbourn-ceron/) (2017). [Speech production planning affects variation in external sandhi](http://ling.auf.net/lingbuzz/003601/current.pdf?_s=WnhIqtIOVwvbTk7C). Doctoral Dissertation, McGill University. (co-supervised with [Morgan Sonderegger](http://people.linguistics.mcgill.ca/~morgan/))
+
+[Alanah McKillen](http://people.linguistics.mcgill.ca/~alanah.mckillen/) (2016). [On the interpretation of reflexive pronouns](http://ling.auf.net/lingbuzz/002952/current.pdf?_s=MWhy8r8GPB3z5vOb). Doctoral Dissertation, McGill University. (co-supervised with&nbsp;[Bernhard Schwarz](http://sites.google.com/site/bernhardschwarz2003/)).
+
+[Jeff Klassen](http://jeffreyklassen.weebly.com/). Ph.D. 2016. (Co-supervised with Lydia White).Second Language Acquisition of Focus Prosody in English and Spanish. Currently&nbsp;lecturing at University of Washington.
+
+[Michael Hamilton](http://michaeldavidhamilton.wordpress.com/). Ph.D. 2015. (Co-supervised with [Jessica Coon](http://jessica.lingspace.org/) and [Alan Bale](http://linguistics.concordia.ca/bale/)). Now Mellon postdoctoral fellow at [Cornell University](http://linguistics.cornell.edu/).
+
+[Jozina vander Klok](http://jozinav.wordpress.com/). Ph.D. 2013. (Supervised by Lisa Travis). Worked in prosodylab on project on prosodic focus marking in French and English.Now sessional lecturer at [UBC](http://linguistics.ubc.ca/).
+
+David-Etienne Bouchard. Ph.D. candidate .Supervisor: Bernhard Schwarz MW: Committee Member. Worked in prosodylab on project on clitics in Québec French (co-supervised with Maire Noonan).
+
+Masayuki Gibson Ph.D. 2012. at Cornell University.&nbsp;&nbsp;Lexical Tone, Intonation, and Their Interaction: A Scopal Theory of Tune Association. Doctoral Dissertation, Cornell University.
+
+[Jonathan Howell](http://www.montclair.edu/profilepages/view_profile.php?username=howellj) (2011). Doctoral Dissertation. Cornell University. Advisor: [Mats Rooth](http://conf.ling.cornell.edu/mr249/), MW: Committee Member.
+
+Nikola Predolac (2011). Syntax and Information Structure: Free Constituent Order and Flexible Relative Prominence in Serbian. Doctoral Dissertation, Cornell University. Advisor: [Draga Zec](http://linguistics.cornell.edu/people/Zec.cfm) MW: Committee.
+
+Hyun-Kyung Hwang (2009): Prosody and WH-Scope in Pitch Accent Languages. Unpublished Ph.D. Thesis. Cornell University. Advisors: [Abby Cohn](http://linguistics.cornell.edu/people/Cohn.cfm) & [John Whitman](http://linguistics.cornell.edu/people/Whitman.cfm). MW: Committee-Member.
+
+[Serena Crivellaro](http://sites.google.com/site/serenacrivellaro/) (2008): Investigating Prosody Boundaries. Unpublished Masters Thesis, Cornell University.
+
+Hye-Sook Lee (2008): Pitch Accent and its Interaction with Intonation. Experimental Investigations in North Kyeongsang Korean. Unpublished Ph-D. Thesis, Cornell. Co-supervised with Abby Cohn.
+
+&nbsp;
+
+&nbsp;
+
+_Undergrads and Post-Undergrads:_
+
+Hannah Cohen. Honor's project on dark/light [l]
+
+Thomas Kettig. Lab Manager.
+
+Amanda MacDonnell. Project on referential expressions.
+
+Sarah Mihuc. Project on prosodic boundary strength.
+
+Jordan Pollock. Research Assistant.
+
+&nbsp;
+
+**Alumni:**
+
+_Former Postdocs Fellows:_
+
+[Aron Hirsch](http://hirsch.mit.edu/). 2017-- . SSHRC Postdoctoral Fellow. (co-supervised with [Bernhard Schwarz](http://sites.google.com/site/bernhardschwarz2003/) and [Luis Alonso-Ovalle](http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/index.html))
+
+[Michael McAuliffe](http://mmcauliffe.github.io/). 2016-- . Postdoctoral Fellow. (co-supervised with [Morgan Sonderegger](http://people.linguistics.mcgill.ca/~morgan/))
+
+[Mitcho Erlewine](http://mitcho.com/). Postdoctoral Fellow at McGill 2014-2015. (co-supervised with&nbsp;[Yosef Grodzinsky](http://elsc.huji.ac.il/grodzinsky/home) and&nbsp;[Bernhard Schwarz](http://sites.google.com/site/bernhardschwarz2003/)). Now Assistant Professor at National[The Department of English Language & Literature at National University of Singapore](http://www.fas.nus.edu.sg/ell/People_Faculty.html).
+
+[Margaret Grant](http://grant-psycholinguistics.com/). Postdoctoral Fellow at McGill 2014 (co-supervised with [Yosef Grodzinsky](http://elsc.huji.ac.il/grodzinsky/home) and&nbsp;[Bernhard Schwarz](http://sites.google.com/site/bernhardschwarz2003/). Now Assistant Professor (limited term) at [University of Toronto](http://linguistics.utoronto.ca/).
+
+[Emily Elfner](http://emilyelfner.sites.olt.ubc.ca/). SSHRC Postdoctoral Fellow at prosody.lab 2012-2014. Now [Banting](http://banting.fellowships-bourses.gc.ca/en/home-accueil.html) Postdoctoral Fellow at the [First Nations and Endangered Languages Program](http://fnel.arts.ubc.ca/) at [UBC](http://linguistics.ubc.ca/).
+
+[Jonathan Howell](http://www.montclair.edu/profilepages/view_profile.php?username=howellj). Postdoctoral Fellow at prosody.lab 2010-2012, as part of the [Digging into data](http://www.diggingintodata.org/) project on Harvesting Speech Data Sets on the Web). Now Assistant Professor at [Montclair State University](http://www.montclair.edu/chss/linguistics/).
+
+&nbsp;
+
+_Former Undergraduate Students:_
+
+
+[Elise McClay](http://linguistics.ubc.ca/persons/elise-mcclay/). Mcgill '12. Project on Intonational Tunes and work on Mi'gmaq. Lab Manager 2013-2014. Now M.A. Candidate at [UBC](http://linguistics.ubc.ca/).
+
+Erin Olson. McGill '12. Honor's thesis&nbsp;on speech segmentation and light/dark [l]. Work on Mi'gmaq. Lab Manager 2012-2013. Now Ph.D. Candidate at [MIT](http://web.mit.edu/linguistics/people/gradstudents.html).
+
+[Aron Hirsch](http://hirsch.mit.edu/). McGill '11. Projects on Topicality and Prosodic Disambiguation. Honor's thesis on prosodic prominence in intransitive clauses. Lab Manager 2011-2012. Now Ph.D. Candidate at MIT.
+
+Aleksandra Piwowarek. McGill '11. Honor's thesis on Vowel Harmony in Québec French. Went on to Master's program at University of Saarbrücken.
+
+Rachel Morasse. McGill '10. Project on Emotive Prosody.
+
+Jonathan Abramsohn (2010). Honor's thesis on reduction: The word grinder. Went on to do degree in the McGill Music Program.
+
+[Kate McCurdy](http://www.k-means.net/projects.html) (2009. Honors B.A., McGill): Of focus, reason, and rhyme: the Rhyming Law revisited (One of two mini-theses submitted for the Honor's BA). Lab manager 2010. Went on to be lab manager in [Jesse Snedeker's lab](http://software.rc.fas.harvard.edu/lds/research/snedeker/jesse-snedeker/), and then worked with [Shravan Vassishth](http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjtjJPd--PKAhXG8CYKHYodAbwQFggfMAA&url=http%3A%2F%2Fwww.ling.uni-potsdam.de%2F~vasishth%2F&usg=AFQjCNHCG3F-DGXss6GVKkUrFURukLyNwg&sig2=49zC45tvy-6cLkVRkax_QQ) and [Gerrit Kentner](http://user.uni-frankfurt.de/~kentner/) at part of a[European Master's on clinical Linguistics](http://www.emcl-mundus.com/).
+
+Steffani Scheer. McGill '09, project on topicalization. Lab Manager 2009-2010.
+
+&nbsp;
+
+**Current and Past Collaborators:**
+
+[Asaf Bachrach](http://www.sfl.cnrs.fr/asaf-bachrach),&nbsp;[Mara Breen](http://www.mtholyoke.edu/~mbreen/),&nbsp;[Ted Gibson](http://tedlab.mit.edu/), [Nino Grillo](http://www.angl.hu-berlin.de/department/staff/nino_grillo), [Fatima Hamlaoui](http://sites.google.com/site/fhaml044/home),&nbsp;[Florian Jaeger](http://www.bcs.rochester.edu/people/fjaeger/),&nbsp;[Gerrit Kentner](http://user.uni-frankfurt.de/~kentner/),&nbsp;[Chigusa Kurumada](http://chigusakurumada.jimdo.com/),&nbsp;[Andrea Santi](http://www.ucl.ac.uk/pals/people/profiles/academic-staff/andrea-santi), [Mats Rooth](http://conf.ling.cornell.edu/mr249/),&nbsp;[Shravan Vassishth](http://www.ling.uni-potsdam.de/~vasishth/), [Duane Watson](http://www.psych.uiuc.edu/labs/CaLL/index.html)
+
+[  
+ ![christophwagner]({{ site.baseurl }}/assets/images/2012/06/lb.jpg)](http://www.christophwagner.co.uk)
+
+***
+
+## Past Events
+
+<p><a href="http://prosodylab.cs.mcgill.ca/events/focus-givenness-topic/">Focus, Givenness, Topic: Prosodic effects and interactions with syntax</a>. Class at the Graz summer school on word order and intonation</p>
+<p>The Phonology-Syntax Interface. Class co-taught with <a href="http://user.uni-frankfurt.de/~cfery/">Caroline Féry</a> at the 2nd Crete Summer School of Linguistics.</p>
+<p>Prosody and Incremental Processing. Class taught at the <a href="http://www.uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-833/ev/dgfs-summer-school-2016-sfb-833.html">DGFS summer school in Tübingen on Mapping Meaning: Theory - Cognition - Variation</a>, August 15th - 26th, 2016 in Tübingen/Germany. <a href="http://www.sfb833.uni-tuebingen.de/ev/dgfs-summer-school-2016-sfb-833/courses/b-cognition/b3-wagner.html">abtract</a></p>
+<p><a href="http://dgwatson.wix.com/etap3">ETAP 3 </a>.Experimental and Theoretical Advances in Prosody 3: Prosodic  Variability. September 23--25 2011. Co-organized with <a href="http://www.psychology.illinois.edu/people/dgwatson">Duane Watson</a> and <a href="http://chigusakurumada.jimdo.com/">Chigusa Kurumada</a>. <a href="https://www.journal-labphon.org/collections/special/prosodic-variability/">Special issue of Laboratory Phonology</a></p>
+<p><a href="http://prosodylab.org/2015/lalala/">LaLaLa</a>. Language labs meeting. Join workshop with students from <a href="http://www.mcgill.ca/linguistics/people/faculty/clayards">Meghan Clayards</a>'s <a href="http://speechlearning.lab.mcgill.ca/">Speech Learning Lab</a>, <a href="http://www.bcs.rochester.edu/people/fjaeger/">Florian Jaeger</a>'s <a href="http://www.hlp.rochester.edu/">HLP lab</a>, <a href="http://chigusakurumada.jimdo.com/">Chigusa Kurumada</a>'s <a href="http://chigusakurumada.jimdo.com/">Kinder Lab</a>, <a href="http://people.linguistics.mcgill.ca/~morgan/">Morgan Sonderegger</a>'s lab, and <a href="http://www.mcgill.ca/linguistics/people/faculty/wagner">Michael Wagner</a>'s <a href="http://prosodylab.org/">prosody.lab</a>.</p>
+<p><a href="http://eti3mcgill.wix.com/eti3">ETI 3: Prosody and Constituent Structure</a>---
+McGill, May 2014 Co-organized with [Emily Elfner](http://emilyelfner.sites.olt.ubc.ca/).
+
+[Contextual Effects on Prosodic Prominence](http://prosodylab.org/participate/ealing-2012/). Course at [EALing 2012](http://ealing.cognition.ens.fr/ealing2012/site/HomePage). September 14-16 2012.
+
+[ETAP 2](http://prosodylab.org/etap/)&nbsp;.Experimental and Theoretical Advances in Prosody: Prosody and Context. McGill University. September 23--25 2011. Co-organized with [Duane Watson](http://www.psychology.illinois.edu/people/dgwatson) and [Ted Gibson](http://tedlab.mit.edu/).&nbsp; [Special issue of Language, Cognition and Neuroscience](https://www.tandfonline.com/toc/plcp21/30/1-2?nav=tocList).
+
+[Prosody in the lab](https://verbs.colorado.edu/LSA2011/courses/59.html). Class taught&nbsp; at the [LSA Institute](http://verbs.colorado.edu/LSA2011/) at the [University of Colorado in Boulder](http://www.colorado.edu/).&nbsp;July 7--August 2 2011
+
+[Phonology in the 21st Century.](http://www.mcgill.ca/linguistics/events/previous/phonology21stcentury) Conference in honor of [Glyne Piggott](http://www.mcgill.ca/linguistics/people/piggott). Co-organized with [Heather Goad](http://www.mcgill.ca/linguistics/people/goad) and Keren Rice.
+
+[WOMM](http://prosodylab.org/?p=407). Workshop on mixed model regression. May 4 2010. (organized as part of GRIPP, conducted by [Florian Jaeger](http://www.bcs.rochester.edu/people/fjaeger/), [Peter Graff](http://web.mit.edu/graff/www/), [Maureen Gillespie](https://sites.google.com/site/gillespiemaureen/))
+
+[MOSAIC](http://mosaic2.wordpress.com/). Meeting of Semanticists Active in Canada. Montréal, June 1 2010. Co-organized with [Junko Shimoyama](http://www.mcgill.ca/linguistics/people/shimoyama/) and others.
+
+[ETAP](http://www.prosodylab.org/~chael/etap/) Experimental and Theoretical Advances in Prosody Cornell University. April 11-13 2008. ([conference website](http://prosody08.wordpress.com/)&nbsp;, [program](http://www.prosodylab.org/~chael/etap/)). Co-organized with [Duane Watson](http://www.psychology.illinois.edu/people/dgwatson) and [Ted Gibson](http://tedlab.mit.edu/). Papers from the first conference were published in a [special issue](https://www.crcpress.com/Experimental-and-Theoretical-Advances-in-Prosody-A-Special-Issue-of-Language/Watson-Wagner-Gibson/p/book/9781848727403) of the journal _Language and Cognitive Processes_.
+
+[SPINE](http://www.prosodylab.org/~chael/www/spine/) Syntax and Prosody in the Northeast. Cornell University. May 5 2007
+

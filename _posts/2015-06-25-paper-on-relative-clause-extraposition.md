@@ -1,0 +1,30 @@
+---
+layout: post
+title: paper on relative clause extraposition
+date: 2015-06-25 16:12:09.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- news
+- prosodylab
+tags: []
+meta:
+  _edit_last: '2'
+author:
+  login: chael
+  email: chael.wagner@gmail.com
+  display_name: chael
+  first_name: Michael
+  last_name: Wagner
+permalink: "/2015/paper-on-relative-clause-extraposition/"
+---
+We posted a new paper on relative clause extraposition in German on the semantics archive:
+
+Poschmann, Claudia & Michael Wagner (accepted). Relative Clause Extraposition and Prosody in German. Natural Language and Linguistic Theory. [[draft: semantics archive](http://semanticsarchive.net/Archive/mE0NDA1Z/poschmannwagner2015.pdf)]
+
+> Abstract:  
+> Whether a relative clause (RC) can be extraposed has been argued to depend both on contextual focus and on whether an RC is restrictive or appositive. However, no previous study has looked at the interaction between these two factors in restricting extraposition, despite the fact that different types of relative clauses are generally taken to differ in how they relate to focus. Furthermore, previous studies have not looked at the role of prosody in accounting for the effect of focus on extraposition, and have found contradictory results with respect to the prosodic differences between appositive and restrictive relative clauses. This paper presents the results of a production experiment on German which crosses the location of focus and the type of RC in order to explore how they interact in affecting prosody and extraposition.
+
