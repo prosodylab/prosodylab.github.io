@@ -99,8 +99,6 @@ Steffani Scheer. McGill '09, project on topicalization. Lab Manager 2009-2010.
 &nbsp;
 
 
-[![christophwagner]({{ site.baseurl }}/assets/images/2012/06/lb.jpg)](http://www.christophwagner.co.uk)
-
 ***
 
 ## Past Events
@@ -151,3 +149,7 @@ McGill, May 2014 Co-organized with [Emily Elfner](http://emilyelfner.sites.olt.u
 [SPINE](http://www.prosodylab.org/~chael/www/spine/) Syntax and Prosody in the Northeast. Cornell University. May 5 2007
 </p>
 
+
+**
+
+[![christophwagner]({{ site.baseurl }}/assets/images/2012/06/lb.jpg)](http://www.christophwagner.co.uk)
