@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  This page lists tools developed in our lab, often in collaboration with other labs.
+  This page lists tools developed in our lab, or in collaboration with other labs
 </p>
 
 
