@@ -42,7 +42,7 @@ Massimo Lipari, Asa Kohn, Sijia Zhang
 &nbsp;
 
 
-## Supervised work by graduate students:
+## Supervised graduate students:
 
 Sepideh Mortazavinia: Project on _even_
 
@@ -77,7 +77,7 @@ Hye-Sook Lee (2008): Pitch Accent and its Interaction with Intonation. Experimen
 &nbsp;
 &nbsp;
 
-## Supervised work by undergrads and post-undergrads:
+## Supervised undergraduate students:
 
 
 [Elise McClay](http://linguistics.ubc.ca/persons/elise-mcclay/). Mcgill '12. Project on Intonational Tunes and work on Mi'gmaq. Lab Manager 2013-2014. Now M.A. Candidate at [UBC](http://linguistics.ubc.ca/).

@@ -16,7 +16,7 @@ McAuliffe, M., Socolof, M., Mihuc, S., Wagner, M., and Sonderegger, M. (2017). M
 
 [**Prosodylab-Aligner:**](http://github.com/prosodylab/Prosodylab-Aligner)
 
-_Gorman, K., Howell, J., and Wagner, M. (2011). Prosodylab-aligner: A tool for forced alignment of laboratory speech. volume 39, pages 192–193._
+Gorman, K., Howell, J., and Wagner, M. (2011). Prosodylab-aligner: A tool for forced alignment of laboratory speech. volume 39, pages 192–193._
 
 
 [**Prosodylab offline experimenter**](http://github.com/prosodylab/prosodylab-experimenter):
