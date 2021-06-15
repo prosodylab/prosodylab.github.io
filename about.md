@@ -28,33 +28,24 @@ Investigating prosody requires integrating insights from different disciplines, 
 
 **Principal Investigator:** [Michael Wagner](http://www.mcgill.ca/linguistics/people/faculty/wagner) [![ORCID iD icon]({{ site.baseurl }}/assets/images/2012/06/orcid_16x16.png)](https://orcid.org/0000-0003-2953-106X) [[CV]](http://prosodylab.cs.mcgill.ca/~chael/cv.pdf)
 
-**Current postdocs/graduate students:**
+### Current postdocs/graduate students:
 
 * Alex Göbel, Humboldt postdoctoral fellow: Project on focus operators and intonation
-
 * Gouming Martens (co-supervised with Francisco Torreira): Project on topics and intonation
-
 * Masashi Harada (co-supervised with Bernhard Schwarz). Project on cumulativity
-
 * Wei Zhang (co-supervised with Meghan Clayards): Project on phrasing and focus
 
-<br>
 
 ### Current undergraduate students working in the lab:
 
 Massimo Lipari, Asa Kohn, Sijia Zhang
 
-&nbsp;
-&nbsp;
 
-
-## Supervised graduate students:
-
-Sepideh Mortazavinia: Project on _even_
-
-[Liz Smeets](http://lizsmeets.wordpress.com/): Project on Reconstruction and _only_
+### Supervised graduate students:
 
 [Dan Goodhue](http://www.danielgoodhue.com/) (2018) [Asking and answering biased polar questions](http://ling.auf.net/lingbuzz/003956). Doctoral Dissertation, McGill University (co-supervised with [Bernhard Schwarz](http://sites.google.com/site/bernhardschwarz2003/) and [Luis Alonso-Ovalle](http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/index.html))
+
+Mortazavinia, Sepideh (2018). The additivity of *even* in Persian and English.(co-supervised with [Lydia White](https://www.mcgill.ca/linguistics/lydia-white))
 
 [Oriana Kilbourn](http://people.linguistics.mcgill.ca/~oriana.kilbourn-ceron/) (2017). [Speech production planning affects variation in external sandhi](http://ling.auf.net/lingbuzz/003601/current.pdf?_s=WnhIqtIOVwvbTk7C). Doctoral Dissertation, McGill University. (co-supervised with [Morgan Sonderegger](http://people.linguistics.mcgill.ca/~morgan/))
 
@@ -83,22 +74,31 @@ Hye-Sook Lee (2008): Pitch Accent and its Interaction with Intonation. Experimen
 &nbsp;
 &nbsp;
 
-## Supervised undergraduate students:
+### Supervised undergraduate students:
 
+Sonora Grimsted (2019). Focus marking in chess instructions. Cognitive Science Research Project (Cogsci 440). Lab manager 2018--2019
 
-[Elise McClay](http://linguistics.ubc.ca/persons/elise-mcclay/). Mcgill '12. Project on Intonational Tunes and work on Mi'gmaq. Lab Manager 2013-2014. Now M.A. Candidate at [UBC](http://linguistics.ubc.ca/).
+Emma Gibson (2019). Tonal Upstep in Weak and Repeated Imperatives. Honour's Thesis (co-supervised with Francisco Torreira)
 
-Erin Olson. McGill '12. Honor's thesis&nbsp;on speech segmentation and light/dark [l]. Work on Mi'gmaq. Lab Manager 2012-2013. Now Ph.D. Candidate at [MIT](http://web.mit.edu/linguistics/people/gradstudents.html).
+Yulan Feng  (2017). Functional Data Analysis of intonational contours. Honour's Thesis (Cogsci 440)
 
-[Aron Hirsch](http://hirsch.mit.edu/). McGill '11. Projects on Topicality and Prosodic Disambiguation. Honor's thesis on prosodic prominence in intransitive clauses. Lab Manager 2011-2012. Now Ph.D. Candidate at MIT.
+Josiane Lachapelle (2017). Liaison: Planning effects of constituent size and speech rate.  Cognitive Science Research Project (Cogsci 440)
 
-Aleksandra Piwowarek. McGill '11. Honor's thesis on Vowel Harmony in Québec French. Went on to Master's program at University of Saarbrücken.
+Sarah Mihuc (2017). Focus in Kabyle. Honour's thesis in Linguistics.  (co-supervised with Jessica Coon).
 
-Rachel Morasse. McGill '10. Project on Emotive Prosody.
+[Elise McClay](http://linguistics.ubc.ca/persons/elise-mcclay/).(2012). Project on Intonational Tunes. Lab manager 2013-2014 
+
+[Erin Olson](https://linguistics.mit.edu/user/ekolson/).(2012). Honor's thesis on speech segmentation and light/dark [l]. Lab Manager 2012-2013.
+
+[Aron Hirsch](http://hirsch.mit.edu/). McGill '11. Projects on Topicality and Prosodic Disambiguation. Honour's thesis on prosodic prominence in intransitive clauses. Lab Manager 2011-2012. Now Ph.D. Candidate at MIT.
+
+Aleksandra Piwowarek. (2011). Honor's thesis on Vowel Harmony in Québec French. Went on to Master's program at University of Saarbrücken.
+
+Rachel Morasse. (2010) Project on Emotive Prosody.
 
 Jonathan Abramsohn (2010). Honor's thesis on reduction: The word grinder. Went on to do degree in the McGill Music Program.
 
-[Kate McCurdy](http://www.k-means.net/projects.html) (2009. Honors B.A., McGill): Of focus, reason, and rhyme: the Rhyming Law revisited (One of two mini-theses submitted for the Honor's BA). Lab manager 2010. Went on to be lab manager in [Jesse Snedeker's lab](http://software.rc.fas.harvard.edu/lds/research/snedeker/jesse-snedeker/), and then worked with [Shravan Vassishth](http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjtjJPd--PKAhXG8CYKHYodAbwQFggfMAA&url=http%3A%2F%2Fwww.ling.uni-potsdam.de%2F~vasishth%2F&usg=AFQjCNHCG3F-DGXss6GVKkUrFURukLyNwg&sig2=49zC45tvy-6cLkVRkax_QQ) and [Gerrit Kentner](http://user.uni-frankfurt.de/~kentner/) at part of a[European Master's on clinical Linguistics](http://www.emcl-mundus.com/).
+[Kate McCurdy](http://www.k-means.net/projects.html) (2009. Honors B.A., McGill): Of focus, reason, and rhyme: the Rhyming Law revisited (One of two mini-theses submitted for the Honor's BA). Lab manager 2010.
 
 Steffani Scheer. McGill '09, project on topicalization. Lab Manager 2009-2010.
 
