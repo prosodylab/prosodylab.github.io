@@ -7,11 +7,11 @@ remote_theme:     fongandrew/hydeout
 title:            prosodylab
 tagline:          'prosodylab'
 description:      'a research lab at mcgill'
-url:              https://mchlwgnr.github.io/labpage
+url:              https://prosodylab.github.io
 
 author:
   name:           'MW'
-  url:            https://mchlwgnr.github.io/labpage/
+  url:            https://mchlwgnr.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'

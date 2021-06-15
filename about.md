@@ -4,6 +4,12 @@ title: about
 sidebar_link: true
 ---
 
+<style>
+img {display: inline!important; vertical-align: middle;}
+</style>
+
+
+
 <p class="message">
   This is the home of Michael Wagner's prosodylab, at the McGill Department of Linguistics. There are other labs working on prosody in our department, check out the labs of Meghan Clayards, Francisco Torreira, and Morgan Sonderegger. 
 </p>
@@ -20,9 +26,9 @@ Investigating prosody requires integrating insights from different disciplines, 
 
 ***
 
-**Principal Investigator:** [Michael Wagner](http://www.mcgill.ca/linguistics/people/faculty/wagner) [[CV](http://prosodylab.cs.mcgill.ca/~chael/cv.pdf)]&nbsp; [![ORCID iD icon]({{ site.baseurl }}/assets/images/2012/06/orcid_16x16.png)](https://orcid.org/0000-0003-2953-106X)
+**Principal Investigator:** [Michael Wagner](http://www.mcgill.ca/linguistics/people/faculty/wagner) [![ORCID iD icon]({{ site.baseurl }}/assets/images/2012/06/orcid_16x16.png)](https://orcid.org/0000-0003-2953-106X) [[CV]](http://prosodylab.cs.mcgill.ca/~chael/cv.pdf)
 
-**Current graduate students:**
+**Current postdocs/graduate students:**
 
 * Alex Göbel, Humboldt postdoctoral fellow: Project on focus operators and intonation
 

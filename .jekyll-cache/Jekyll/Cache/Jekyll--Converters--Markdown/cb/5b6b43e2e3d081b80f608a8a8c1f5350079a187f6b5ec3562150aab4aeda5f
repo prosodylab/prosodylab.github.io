@@ -1,0 +1,25 @@
+I"t<p class="message">
+  This page lists tools developed in our lab, or in collaboration with other labs
+</p>
+
+<p><a href="http://montreal-forced-aligner.readthedocs.io/en/latest/"><strong>Montréal Forced Aligner:</strong></a></p>
+
+<p>McAuliffe, M., Socolof, M., Mihuc, S., Wagner, M., and Sonderegger, M. (2017). Montreal forced aligner: trainable text-speech alignment using Kaldi. In Proceedings of Interspeech 2017 in Stockholm. <a href="http://dx.doi.org/10.21437/Interspeech.2017-1386">[doi]</a> <a href="http://montreal-forced-aligner.readthedocs.io/en/latest/">[docs]</a></p>
+
+<p><a href="http://github.com/prosodylab/Prosodylab-Aligner"><strong>Prosodylab-Aligner:</strong></a></p>
+
+<p>Gorman, K., Howell, J., and Wagner, M. (2011). Prosodylab-aligner: A tool for forced alignment of laboratory speech. volume 39, pages 192–193. <a href="http://jcaa.caa-aca.ca/index.php/jcaa/article/view/2476/2225">[paper]</a> <a href="http://github.com/prosodylab/Prosodylab-Aligner">[git]</a></p>
+
+<p><a href="https://github.com/prosodylab/prosobeast"><strong>ProsoBeast:</strong></a>:</p>
+
+<p>Gerazov B. and M. Wagner, “ProsoBeast Prosody Annotation Tool,” submitted to Interspeech 2021, in ArXiv e-prints, 6 Apr 2021. <a href="https://arxiv.org/abs/2104.02397">[paper]</a> <a href="https://github.com/prosodylab/prosobeast">[git]</a></p>
+
+<p><a href="http://github.com/prosodylab/prosodylabExperimenter"><strong>ProsodylabExperimenter:</strong></a>:</p>
+
+<p>A spreadsheet-in spreadsheet-out tool for running online experiments<br />
+Wagner, M. (2021). ProsodylabExperimenter. a spreadsheet-in spreadsheet-out tool for run- ning online experiments. <a href="https://github.com/prosodylab/prosodylab-experimenter">[git]</a></p>
+
+<p><a href="https://github.com/prosodylab/prosodylab-offline-experimenter"><strong>Prosodylab offline experimenter</strong></a>:</p>
+
+<p>Matlab scripts to run simple experiments. (As of 2019, there were compatibility issues between the Psychtoolbox and the then current Mac operating system, which is one of many reasons why we moved to javascript) <a href="https://github.com/prosodylab/prosodylab-offline-experimenter">[git]</a></p>
+:ET
