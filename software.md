@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tools
+title: software
 sidebar_link: true
 ---
 
