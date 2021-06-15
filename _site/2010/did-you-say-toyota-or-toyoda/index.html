@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <title>
+    
+      did you say toyota or toyoda? &middot; prosodylab
+    
+  </title>
+
+  
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+
+  <!-- Additional head bits without overriding original head -->
+</head>
+
+
+  <body class="post">
+
+    
+<div id="sidebar">
+<!--
+<img src="public/kazoo_widemargin.png" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+-->
+<img src="https://raw.githubusercontent.com/prosodylab/kazoo/master/kazoo_widecanvas.png?raw=true" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+  <header>
+  
+    <div class="site-title">
+      <a href="/">
+        
+          <span class="back-arrow icon"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg></span>
+        
+        prosodylab
+      </a>
+    </div>
+    <p class="lead">a research lab at mcgill</p>
+  </header>
+  <nav id="sidebar-nav-links">
+  
+  
+
+  
+
+  
+
+
+  
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/about.html">about</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+      <a class="page-link "
+          href="/output.html">output</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/projects.html">projects</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/tools.html">tools</a>
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/bestiary.html">bestiary</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/field%20station.html">field station</a>
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  <!-- Optional additional links to insert in sidebar nav -->
+</nav>
+
+
+  
+
+  <nav id="sidebar-icon-links">
+  
+
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="/feed.xml">
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <circle cx="6.18" cy="17.82" r="2.18"/>
+    <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+</svg>
+  </a>
+
+  
+  
+  
+  
+
+  
+    <a id="tags-link"
+       class="icon"
+       title="Tags" aria-label="Tags"
+       href="/tags.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M17.63 5.84C17.27 5.33 16.67 5 16 5L5 5.01C3.9 5.01 3 5.9 3 7v10c0 1.1.9 1.99 2 1.99L16 19c.67 0 1.27-.33 1.63-.84L22 12l-4.37-6.16z"/>
+</svg>
+    </a>
+  
+
+  
+    <a id="search-link"
+       class="icon"
+       title="Search" aria-label="Search"
+       href="/search.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+    </a>
+  
+
+  <!-- Optional additional links to insert for icons links -->
+</nav>
+
+  <p>
+  &copy; 2021
+  <!-- <a href="/LICENSE.md">MIT License.</a> --!>
+  Michael Wagner
+</p>
+
+</div>
+
+
+    <main class="container">
+      <header>
+  <h1 class="post-title">did you say toyota or toyoda?</h1>
+</header>
+<div class="content">
+  <div class="post-meta">
+  <span class="post-date">06 Feb 2010</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        discussion
+      
+    
+  </span>
+</div>
+
+
+  <div class="post-body">
+    <p>The name of the car company and that of its president and CEO (a grandson of its founder Kiichiro Toyoda) are homophonous (or at least nearly homophonous)–in North American English, that is. Both [t] and [d] become flaps intervocalically after a stressed syllable.</p>
+
+<p>It’s interesting though to see what people do when they want to emphasize which one of the two words were intended. According to various people I’ve polled (some of them currently taking my experimental class at the moment), one way to disambiguate is to shift stress to the last syllable and thus bleed the application of flapping.</p>
+
+<p>This is an example of focus within-word focus. In his 1961 paper on contrastive accent and contrastive stress <a href="http://en.wikipedia.org/wiki/Dwight_Bolinger">Dwight Bolinger</a> describes another instance:</p>
+
+<blockquote>
+  <p>In a New Yorker cartoon a man stands upside down, with feet on the ceiling, in a psychiatrist’s office. The psychiatrist says to the man’s wife, ‘In a case of this kind, Mrs. Hall, our first concern is to persuade the patient that he is a stalagmite’ (last syllable underlined in original).</p>
+</blockquote>
+
+<p>There’s a nice paper by<a href="http://ron.artstein.org/">Ron Artstein</a> that discusses the semantics of this kind of <a href="http://www.springerlink.com/content/t5842628550m1828/">focus below he word level</a>.</p>
+
+<p>It’s conceivable though that a speaker might shift stress even in the absence of such a contrasting minimal pair, in order to clarify the spelling (or underlying form?) of a word. If this way of avoiding flapping became a regular process, it would constitute a violation of a generalization that is otherwise very robust, (the ‘two-many-solutions-problem’, see <a href="http://web.mit.edu/linguistics/people/faculty/steriade/index.html">Donca Steriade</a>’s <a href="http://www.linguistics.ucla.edu/people/steriade/papers/P-map_for_phonology.doc">paper on the P-Map</a> and<br />
+<a href="http://www.carleton.ca/slals/faculty/linguistics/blumenfeld.html">Lev Blumenfeld</a>’s 2006 thesis): Prosodically conditioned lenition-processes such as foot-internal flapping are not mirrored by hypothetical processes that would shift stress for the purpose of avoiding the lenition to apply. This is surprising under an optimality-theoretic analysis of such processes that uses the interaction of markedness and faithfulness constraints, since shifting stress would be another way to avoid the markedness-violation incurred by intervocalic post-tonic [t] or [d], so it would be easy to create a correct ranking for such a grammar. However, languages don’t ever seem to pick this solution. They either stay faithful or lenite.</p>
+
+<p>So does the English strategy to emphasize the underlying (or at least orthographic) contrast between ‘Toyota’ and ‘Toyoda’ show that this generalization is not really true? Maybe not: for all we know, the stress shift observed here might be an acrobatic act that savvy users of English use to disambiguate otherwise homophonous words based on their own phonological knowledge, but not something that could ever become a regular grammatical process that could be generalized to all flapping environments.</p>
+
+<p>On the other hand, maybe such a process is simply unlikely to be develop: Languages might conserve a contrast (as in languages that don’t have flapping, say British English) or lenite–but under what scenario would a language develop a stress shift that serves the purpose of avoiding a neutralization brought about by a lenition process which, however, could never be observed in the first place if there were a stress shift? Developing such a pre-emptive phonological process might simply be an unlikely scenario for a language change.</p>
+
+<p>Shifting stress is different from other forms of enhancement (which one could argue are similarly pre-emptive) since it comes at the cost of changing a property that itself is contrastive in English, word-stress. Another difference might be that shifting stress does not exaggerate a tendency that is already present with the original contrast (That’s an empirical question: Could a hyper-articulated rendition of [toi!] in French at times be aspirated? Could a hyper-articulated British English rendition of [water] at times shift stress to the last syllable? It seems to me the former is much more likely than the latter, but maybe I’m wrong).</p>
+
+<p>So it’s not so obvious that there is a ‘two-many-solutions’ problem in this case. Of course, this type of explanation might only be feasible in a small subset of cases in which the ‘two-many-solutions’ problem has been observed.</p>
+
+<p>[some edits on February 9, 2010]</p>
+
+
+    
+
+
+
+<div class="post-tags">
+  
+</div>
+  </div>
+
+  
+  <section class="comments">
+    <h2>Comments</h2>
+    
+  <p>
+    You are seeing this because your Disqus shortname is not properly set. To
+    configure Disqus, you should edit your <code>_config.yml</code> to include
+    either a <code>disqus.shortname</code> variable.
+  </p>
+
+  <p>
+    If you do not wish to use Disqus, override the
+    <code>comments.html</code> partial for this theme.
+  </p>
+
+
+  </section>
+
+  <section class="related">
+  <h2>Related Posts</h2>
+  <ul class="posts-list">
+    
+      <li>
+        <h3>
+          <a href="/field%20station/2021/06/08/experiment-rhyme.html">
+            Experiment: Rhymes in English
+            <small>08 Jun 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/field%20station/2021/06/08/experiment-itl.html">
+            Experiment: Iambic Trochaic Law
+            <small>08 Jun 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2021/deaccentuation-at-glow/">
+            deaccentuation at glow
+            <small>22 Apr 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</section>
+
+</div>
+
+    </main>
+
+    <!-- Optional footer content -->
+
+  </body>
+</html>

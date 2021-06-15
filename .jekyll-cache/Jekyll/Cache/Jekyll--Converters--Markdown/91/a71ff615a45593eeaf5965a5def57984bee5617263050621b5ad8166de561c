@@ -1,0 +1,7 @@
+I"l<p>Here’s the revised version of our paper on gradient boundary strength and disambiguation, soon to be presented at <a href="http://speechprosody2010.illinois.edu/">speech prosody</a>:</p>
+
+<p><a href="http://prosodylab.org/~chael/www/papers/wagnercrivellaro10.pdf">Wagner, Michael &amp; Serena Crivellaro: Relative Prosodic Boundary Strength and Prior Bias in Disambiguation</a></p>
+
+<p><em>Abstract: Previous research found that the relative rather than the absolute size of prosodic boundaries is crucial in disambiguating attachment ambiguities [1, 2]. Furthermore, relative categorical differences matter whereas merely quantitative ones do not [1]. This paper presents further evidence that relative boundary strength is indeed what is crucial, but, contrary to earlier findings, gradient quantitative differences in boundary rank affect parsing decisions in gradient ways. Furthermore, varying the plausibility of a given reading in a given context shifts the perceptual boundaries between different phrasings such that quantitatively stronger prosodic cues are necessary to counter-act a prior bias against it.</em></p>
+
+:ET

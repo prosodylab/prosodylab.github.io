@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <title>
+    
+      prosodylab &middot; prosodylab
+    
+  </title>
+
+  
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+
+  <!-- Additional head bits without overriding original head -->
+</head>
+
+
+  <body class="index">
+
+    
+<div id="sidebar">
+<!--
+<img src="public/kazoo_widemargin.png" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+-->
+<img src="https://raw.githubusercontent.com/prosodylab/kazoo/master/kazoo_widecanvas.png?raw=true" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+  <header>
+  
+    <h1 class="site-title">
+      <a href="/">
+        
+          <span class="back-arrow icon"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg></span>
+        
+        prosodylab
+      </a>
+    </h1>
+    <p class="lead">a research lab at mcgill</p>
+  </header>
+  <nav id="sidebar-nav-links">
+  
+  
+
+  
+
+  
+
+
+  
+
+  
+    
+      <a class="page-link "
+          href="/about.html">about</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+      <a class="page-link "
+          href="/output.html">output</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/projects.html">projects</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/tools.html">tools</a>
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  
+
+
+  
+
+  
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/bestiary.html">bestiary</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/field%20station.html">field station</a>
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  <!-- Optional additional links to insert in sidebar nav -->
+</nav>
+
+
+  
+
+  <nav id="sidebar-icon-links">
+  
+
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="/feed.xml">
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <circle cx="6.18" cy="17.82" r="2.18"/>
+    <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+</svg>
+  </a>
+
+  
+  
+  
+  
+
+  
+    <a id="tags-link"
+       class="icon"
+       title="Tags" aria-label="Tags"
+       href="/tags.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M17.63 5.84C17.27 5.33 16.67 5 16 5L5 5.01C3.9 5.01 3 5.9 3 7v10c0 1.1.9 1.99 2 1.99L16 19c.67 0 1.27-.33 1.63-.84L22 12l-4.37-6.16z"/>
+</svg>
+    </a>
+  
+
+  
+    <a id="search-link"
+       class="icon"
+       title="Search" aria-label="Search"
+       href="/search.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+    </a>
+  
+
+  <!-- Optional additional links to insert for icons links -->
+</nav>
+
+  <p>
+  &copy; 2021
+  <!-- <a href="/LICENSE.md">MIT License.</a> --!>
+  Michael Wagner
+</p>
+
+</div>
+
+
+    <main class="container">
+      <div class="content">
+  
+<div class="pagination">
+  <a class="pagination-item newer"
+     href="/page26">
+    Newer
+  </a>
+</div>
+
+
+
+  
+
+  
+  <article class="post-body">
+    <h2 class="post-title">
+      <a href="/2010/speech-prosody/">
+        speech prosody
+      </a>
+    </h2>
+    <div class="post-meta">
+  <span class="post-date">26 Jan 2010</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        conferences
+      
+    
+  </span>
+</div>
+
+
+    
+      <p><a href="http://speechprosody2010.illinois.edu/">Speech Prosody</a> will take place in Chicago this year. There’s a special session on <a href="http://speechprosody2010.illinois.edu/focus.php">Experimental Approaches to Focus</a>, organized by <a href="http://www.phon.ucl.ac.uk/home/yi/">Yi Xu</a> which promises to be interesting.</p>
+
+    
+
+    
+      
+      
+      
+
+      
+        <a href="/2010/speech-prosody/">More &hellip;</a>
+      
+    
+  </article>
+  
+  <article class="post-body">
+    <h2 class="post-title">
+      <a href="/2010/online/">
+        paper online
+      </a>
+    </h2>
+    <div class="post-meta">
+  <span class="post-date">26 Jan 2010</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        prosodylab
+      
+    
+  </span>
+</div>
+
+
+    
+      <p>A couple of weeks ago my article “Prosody and Recursion in Coordinate Structures and Beyond” was <a href="http://www.springerlink.com/content/43t2jp7h5p131tw8/?p=caf08a6d61f549c6b5bef6e1f8dcb8a0&amp;pi=2">posted online</a> by <em>Natural Language and Linguistic Theory</em>. Here’s the abstract:</p>
+
+    
+
+    
+      
+      
+      
+
+      
+        <a href="/2010/online/">More &hellip;</a>
+      
+    
+  </article>
+  
+  <article class="post-body">
+    <h2 class="post-title">
+      <a href="/2010/workshop-on-prosodic-development/">
+        Workshop on Prosodic Development
+      </a>
+    </h2>
+    <div class="post-meta">
+  <span class="post-date">16 Jan 2010</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        conferences
+      
+    
+  </span>
+</div>
+
+
+    
+      <p><a href="http://prosodia.uab.cat/pilarprieto/">Pilar Prieto</a> just posted the <a href="http://linguistlist.org/issues/21/21-244.html">program</a> of a workshop on prosodic development, to be held in Barcelona 16-Apr-2010 - 16-Apr-2010:</p>
+
+    
+
+    
+      
+      
+      
+
+      
+        <a href="/2010/workshop-on-prosodic-development/">More &hellip;</a>
+      
+    
+  </article>
+  
+  <article class="post-body">
+    <h2 class="post-title">
+      <a href="/2009/mosaic-2/">
+        Mosaic 2
+      </a>
+    </h2>
+    <div class="post-meta">
+  <span class="post-date">21 Dec 2009</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        conferences
+      
+    
+      &bull;
+
+      
+      
+      
+
+      
+        local
+      
+    
+  </span>
+</div>
+
+
+    
+      <p>The call for papers for <a href="http://mosaic2.wordpress.com/">Mosaic 2</a> has been posted. Mosaic is a workshop bringing together semanticists active in Canada. It’s a satellite meeting of the annual meeting of the <a href="http://www.chass.utoronto.ca/~cla-acl/">Canadian Linguistic Association.</a></p>
+
+    
+
+    
+      
+      
+      
+
+      
+    
+  </article>
+  
+  <article class="post-body">
+    <h2 class="post-title">
+      <a href="/2009/rhyme-is-in-the-air/">
+        rhyme is in the air
+      </a>
+    </h2>
+    <div class="post-meta">
+  <span class="post-date">11 Dec 2009</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        discussion
+      
+    
+      &bull;
+
+      
+      
+      
+
+      
+        prosodylab
+      
+    
+  </span>
+</div>
+
+
+    
+      <p><em>[see also a more recent post <a href="http://prosodylab.org/?p=459">here</a>. mw, august 8 2010</em>]</p>
+
+    
+
+    
+      
+      
+      
+
+      
+        <a href="/2009/rhyme-is-in-the-air/">More &hellip;</a>
+      
+    
+  </article>
+  
+
+  
+<div class="pagination">
+  <a class="pagination-item older"
+     href="/page28">
+    Older
+  </a>
+</div>
+
+
+</div>
+    </main>
+
+    <!-- Optional footer content -->
+
+  </body>
+</html>

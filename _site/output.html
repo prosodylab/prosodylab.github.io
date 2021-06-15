@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <title>
+    
+      output &middot; prosodylab
+    
+  </title>
+
+  
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+
+  <!-- Additional head bits without overriding original head -->
+</head>
+
+
+  <body class="page">
+
+    
+<div id="sidebar">
+<!--
+<img src="public/kazoo_widemargin.png" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+-->
+<img src="https://raw.githubusercontent.com/prosodylab/kazoo/master/kazoo_widecanvas.png?raw=true" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+  <header>
+  
+    <div class="site-title">
+      <a href="/">
+        
+          <span class="back-arrow icon"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg></span>
+        
+        prosodylab
+      </a>
+    </div>
+    <p class="lead">a research lab at mcgill</p>
+  </header>
+  <nav id="sidebar-nav-links">
+  
+  
+
+  
+
+  
+
+
+  
+
+  
+    
+      <a class="page-link "
+          href="/about.html">about</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+      <a class="page-link  active"
+          href="/output.html">output</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/projects.html">projects</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/tools.html">tools</a>
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  
+
+
+  
+
+  
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/bestiary.html">bestiary</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/field%20station.html">field station</a>
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  <!-- Optional additional links to insert in sidebar nav -->
+</nav>
+
+
+  
+
+  <nav id="sidebar-icon-links">
+  
+
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="/feed.xml">
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <circle cx="6.18" cy="17.82" r="2.18"/>
+    <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+</svg>
+  </a>
+
+  
+  
+  
+  
+
+  
+    <a id="tags-link"
+       class="icon"
+       title="Tags" aria-label="Tags"
+       href="/tags.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M17.63 5.84C17.27 5.33 16.67 5 16 5L5 5.01C3.9 5.01 3 5.9 3 7v10c0 1.1.9 1.99 2 1.99L16 19c.67 0 1.27-.33 1.63-.84L22 12l-4.37-6.16z"/>
+</svg>
+    </a>
+  
+
+  
+    <a id="search-link"
+       class="icon"
+       title="Search" aria-label="Search"
+       href="/search.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+    </a>
+  
+
+  <!-- Optional additional links to insert for icons links -->
+</nav>
+
+  <p>
+  &copy; 2021
+  <!-- <a href="/LICENSE.md">MIT License.</a> --!>
+  Michael Wagner
+</p>
+
+</div>
+
+
+    <main class="container">
+      <header>
+  
+
+
+  <h1 class="page-title">output</h1>
+</header>
+<div class="content">
+  <p class="message">
+See also the 'about' page for theses and related single-authored publications by students
+</p>
+
+<p><strong>Presentations and work in progress</strong></p>
+
+<p><a href="https://web.stanford.edu/~anttila/">Arto Anttila</a>  &amp; Michael Wagner (2021). <a href="https://glowlinguistics.org/44/wp-content/uploads/sites/8/2021/02/abstract-debate-deaccentuation.pdf">What is deaccentuation</a>? Targeted Collaborative Debate at GLOW 44 [<a href="http://prosodylab.org/~chael/papers/anttilawagner2021glow44.pdf">slides</a>]</p>
+
+<p>Hirsch, Aron &amp; Michael Wagner. Variable prosodic phrasing in a theory of incremental production planning. Ms., MIT/McGill. <a href="https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxhcm9uaGlyc2NoMXxneDo2NWU2OWM3ZTk5ZTM5ZTA5">[paper]</a></p>
+
+<p>Wagner, Michael (submitted).  Two-dimensional parsing of the acoustic stream explains the iambic-trochaic law. [<a href="http://doi.org/10.17605/OSF.IO/RWBYH">draft</a>]</p>
+
+<p>Wagner, Michael, Alvaro Iturralde Zurita, and Sijia Zhang (2021). Two dimensional parsing, the iambic trochaic law, and the typology of rhythm. Short Talk presented at the CUNY Sentence Processing Conference, UPenn [<a href="https://osf.io/q56fp/">abstract</a>]  [<a href="http://prosodylab.org/data/bestiary/cuny2021/">slides</a>]</p>
+
+<p>Wagner, Michael, Josiane Lachapelle, &amp; Oriana Kilbourn-Ceron.  Liaison and production planning. Poster presentation on July 6 at LabPhon 17, University of British Columbia [<a href="http://prosodylab.org/~chael/papers/wagner_lachapelle_kilbourn-ceron_Labhon2020.pdf">draft June 26 2020</a>]</p>
+
+<p>Wagner, Michael (reporting on joint work with Dan Goodhue) 2020: Toward an intonational bestiary. Colloquium talk at University of Victoria. [<a href="http://prosodylab.org/data/bestiary/uvic/">slides</a>]</p>
+
+<p>Wagner, Michael. Even and the syntax of additivity. Colloquium talk given at University of Chicago on December  2015. [<a href="http://prosodylab.org/~chael/papers/wagner15chicago.pdf">handout</a>].</p>
+
+<p>Wagner, Michael (2020). Encoding a semantic contrast requires phonological contrast in English but not in French. Poster presented at the 61st Annual Conference of the Psychonomic Society on Nov 19 2020. [<a href="https://prosodylab.org/~chael/papers/wagner_homophone_2020.pdf">poster</a>]</p>
+
+<p><strong>2020</strong></p>
+
+<p>Gibson, Emma, Torreira, Francisco, and Wagner, Michael. (2020). The high-fall contour in North American English: A case study in imperatives. In Proceedings of the 10th International Conference on Speech Prosody 2020. [<a href="http://prosodylab.org/~chael/papers/gibsonetal2020.pdf">paper</a>]</p>
+
+<p>Kilbourn-Ceron, O., Clayards, M., and Wagner, M. (2020). Predictability modulates pronunciation variants through speech planning effects: A case study on coronal stop realizations. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 11(1). [<a href="http://www.journal-labphon.org/articles/10.5334/labphon.168/">doi</a>]</p>
+
+<p>Martens, G., Torreira, F., and Wagner, M. (2020). Hat contour in dutch: Form and function. In Proceedings of the 10th International Conference on Speech Prosody 2020. [<a href="http://prosodylab.org/~chael/papers/martensetal2020.pdf">paper</a>]</p>
+
+<p>Wagner, M. (in press). Prosodic focus. In Gutzmann, D., Matthewson, L., Meier, C., Rullmann, H., and Zimmermann, T. E., editors, The Wiley Blackwell Companion to Semantics. Wiley–Blackwell. [<a href="http://semanticsarchive.net/Archive/TFhYTYxO/">semantics archive</a>] [<a href="http://ling.auf.net/lingbuzz/004149">lingbuzz</a>]</p>
+
+<p><strong>2019</strong></p>
+
+<p><a href="http://sites.google.com/view/aronhirsch/home">Hirsch, Aron</a> and Michael Wagner. <em>Only</em> reconstruction and backwards association. Proceedings of the Amsterdam Colloquium. [<a href="http://events.illc.uva.nl/AC/AC2019/uploaded_files/inlineitem/Hirsch_and_Wagner_Only_reconstruction_and_backwards.pdf">paper</a>]</p>
+
+<p><a href="http://www-bcf.usc.edu/~keine/">Keine, Stefan</a>, Michael Wagner, and <a href="http://jessica.lingspace.org/">Jessica</a><a href="http://jessica.lingspace.org/">Coon</a>, (2019). Hierarchy effects in copula constructions. Canadian Journal of Linguistics. [<a href="http://doi.org/10.1017/cnj.2019.28">doi</a>]</p>
+
+<p><a href="http://www.ucl.ac.uk/pals/people/andrea-santi">Santi, Andrea</a>, <a href="http://www.york.ac.uk/language/people/academic-research/nino-grillo/">Nino Grillo</a>, Emilia Molimpakis &amp; <a href="http://prosodylab.org/lab/">Michael Wagner</a> (2019) Processing relative clauses across comprehension and production: similarities and differences, Language, Cognition and Neuroscience, [<a href="http://doi.org/10.1080/23273798.2018.1513539">doi</a>]</p>
+
+<p>Wagner, Michael and <a href="http://memcauliffe.com/">McAuliffe, Michael</a> (2019). The effect of focus prominence on phrasing. <em>Journal of Phonetics</em> 77. [<a href="http://doi.org/10.1016/j.wocn.2019.100930">doi</a>] [<a href="http://ling.auf.net/lingbuzz/004863">preprint</a>]</p>
+
+<p>Wagner, Michael (2019). Disjuncts must be mutually excludable. <em>Snippets</em> 37. [<a href="http://dx.doi.org/10.7358/snip-2019-037-wagn">doi</a>] [<a href="http://semanticsarchive.net/Archive/zRiYzI1N/">semantics archive</a>] [<a href="http://ling.auf.net/lingbuzz/004958">lingbuzz</a>]</p>
+
+<p><strong>2018</strong></p>
+
+<p><a href="http://www.danielgoodhue.com/">Goodhue, Dan</a> &amp; Michael Wagner (2018). Intonation, <em>yes</em> and <em>no</em>. <em>Glossa: a journal of general linguistics</em>, 3(1).5:45pp. [<a href="http://dx.doi.org/10.5334/gjgl.210">doi</a>]</p>
+
+<p><a href="http://sites.google.com/site/fhaml044/home">Hamlaoui,Fatima</a>, <a href="http://www.marzenazygis.com/">Marzena Żygis</a>, Jonas Engelmann, and Michael Wagner (2018). Acoustic correlates of focus marking in Czech and Polish. <em>Language and Speech</em>, 1(20):44pp [<a href="http://dx.doi.org/10.1177/0023830918773536">doi</a>]</p>
+
+<p><a href="http://www.ucs.mun.ca/~sjmackenzie/">Mackenzie, Sara</a>, <a href="http://linguistics.mit.edu/user/ekolson/">Olson, Erin</a>, <a href="http://speechlearning.lab.mcgill.ca/">Clayards, Meghan</a>, &amp; Wagner, Michael (2018). North American /l/ both darkens and lightens depending on morphological constituency and segmental context. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 9(1), 13. [<a href="http://doi.org/10.5334/labphon.104">doi</a>]</p>
+
+<p><a href="http://lizsmeets.github.io/">Smeets, Liz</a> and Michael Wagner (2018). Reconstructing the syntax of focus operators. Semantics &amp; Pragmatics, 11(6):1–27. [<a href="http://dx.doi.org/10.3765/sp.11.6">doi</a>]</p>
+
+<p><a href="http://jozinav.wordpress.com/">Vander Klok, Jozina</a>, <a href="http://www.mcgill.ca/linguistics/people/faculty/goad">Heather Goad</a>, and Michael Wagner (2018). Prosodic Focus in English vs. French: A Scope Account.<em>Glossa: a journal of general linguistics</em>  3(1): 71. 1-47 <a href="http://www.glossa-journal.org/article/10.5334/gjgl.172/">[doi]</a></p>
+
+<p><strong>2017</strong></p>
+
+<p><a href="http://jessica.lingspace.org/">Coon, Jessica</a>, <a href="http://www-bcf.usc.edu/~keine/">Stefan Keine</a>, &amp; Michael Wagner (2017). Hierarchy effects in copular constructions: The PCC corner of German. In: Lamont, A. and Tetzloff, K., editors, Proceedings of the 47th Meeting of the North East Linguistics Society (NELS 47, Amherst, MA.205–214 [<a href="http://prosodylab.org/~chael/papers/coon_keine_wagner_2016.pdf">Poster</a>] [<a href="http://ling.auf.net/lingbuzz/003456">Paper</a>]</p>
+
+<p><a href="http://www.montclair.edu/profilepages/view_profile.php?username=howellj">Howell, Jonathan</a>, <a href="http://conf.ling.cornell.edu/mr249/">Rooth, Mats</a>, &amp; Wagner, Michael (2017). Acoustic classification of focus: On the web and in the lab. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 8(1), 16. [<a href="http://www.journal-labphon.org/article/10.5334/labphon.8/">doi</a>]</p>
+
+<p><a href="http://people.linguistics.mcgill.ca/~oriana.kilbourn-ceron/">Kilbourn-Ceron, Oriana</a>, Wagner, Michael, and <a href="http://speechlearning.lab.mcgill.ca/">Clayards, Meghan</a> (2017). The effect of production planning locality on external sandhi: a study in /t/. Proceedings of the the 52nd Annual Meeting of the Chicago Linguistic Society in 2016. [<a href="http://ling.auf.net/lingbuzz/003119">paper</a>]</p>
+
+<p><a href="http://memcauliffe.com/">McAuliffe, M.</a>, Socolof, M., Mihuc, S., Wagner, M., and <a href="http://people.linguistics.mcgill.ca/~morgan/">Sonderegger, M.</a> (2017). Montreal forced aligner: trainable text-speech alignment using Kaldi. In Proceedings of Interspeech 2017 in Stockholm. [<a href="http://www.isca-speech.org/archive/Interspeech_2017/pdfs/1386.PDF">proceedings</a>] [<a href="http://prosodylab.org/~chael/papers/mcauliffe_etal_2017_MFA.pdf">paper</a>] [<a href="https://www.isca-speech.org/archive/Interspeech_2017/abstracts/1386.html">doi</a>]</p>
+
+<p><a href="http://jeffreyklassen.weebly.com/">Klassen, Jeffrey</a> and Wagner, Michael (2017). Prosodic prominence shifts are anaphoric. Journal of Memory and Language, 92:305–326. [<a href="http://dx.doi.org/10.1016/j.jml.2016.06.012">doi</a>] [<a href="http://www.sciencedirect.com/science/article/pii/S0749596X16300584">paper</a>]</p>
+
+<p><a href="http://lizsmeets.github.io/">Smeets, Liz</a> and Wagner, Michael (2017). The syntax of focus association in Dutch &amp; German: Evidence from scope reconstruction. In Kaplan, A., Kaplan, A., McCarvel, M. K., and J. Rubin, E., editors, Proceedings of the West Coast Conference on Formal Linguistics, University of UTAH, pages 470–480, Somerville, MA. Cascadilla Press.[<a href="http://www.lingref.com/cpp/wccfl/34/paper3354.pdf">proceedings</a>] [<a href="http://ling.auf.net/lingbuzz/003036">lingbuzz</a>]</p>
+
+<p>Tanner, James, <a href="http://people.linguistics.mcgill.ca/~morgan/">Morgan Sonderegger</a> and Michael Wagner (2017). Production planning and coronal stop deletion in spontaneous speech. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 8(1), 15. [<a href="http://doi.org/10.5334/labphon.96">doi</a>]</p>
+
+<p>Wagner, M. and<a href="http://memcauliffe.com/">McAuliffe, M.</a> (2017). Three dimensions of sentence prosody and their (non-)interactions. In Proceedings of Interspeech 2017 in Stockholm. [<a href="http://www.isca-speech.org/archive/Interspeech_2017/pdfs/1500.PDF">proceedings</a>] [ <a href="http://prosodylab.org/~chael/papers/wagner_mcauliffe_2017.pdf">preprint</a>][<a href="http://dx.doi.org/10.21437/Interspeech.2017-1500">doi</a>]</p>
+
+<p><strong>2016</strong></p>
+
+<p><a href="http://www.danielgoodhue.com/">Goodhue, Dan</a>, Harrison, Lyana, Su, Y. T. Clementine, and Wagner, Michael (2016). Toward a bestiary of English intonational tunes. In Hammerly, C. and Prickett, B., editors, Proceedings of the 46th Conference of the North Eastern Linguistic Society (NELS), Concordia University, pages 311–320. [<a href="http://prosodylab.org/~chael/papers/Goodhue-et-al_NELS_2016.pdf">paper</a>] [<a href="http://prosodylab.org/data/bestiary/bestiary-risingcontours/">interactive page</a>] [<a href="https://github.com/prosodylab/bestiary-risingcontours">data</a>]</p>
+
+<p><a href="http://jeffreyklassen.weebly.com/">Klassen, Jeffrey</a>,  Michael Wagner, Annie Tremblay, &amp; Heather Goad. Prominence shifts in English and Spanish parallel constructions. In Hunter, J., Simons, M., and Stone, M., editors, Proceedings of JerSem: The 20th Workshop on the Semantics and Pragmatics of Dialogue, pages 76–85, New Brunswick, NJ. [<a href="http://events.illc.uva.nl/semdial/proceedings/semdial2016_jersem_proceedings.pdf">proceedings</a>][<a href="http://prosodylab.org/~chael/papers/klassen-et-al16.pdf">paper</a>]</p>
+
+<p>Poschmann, Claudia and Wagner, Michael (2016). Relative clause extraposition and prosody in German. Natural Language &amp; Linguistic Theory, 34(3):1021–1066. [<a href="http://dx.doi.org/10.1007/s11049-015-9314-8">doi</a>]</p>
+
+<p>Wagner, Michael (2016). Information Structure and Production Planning. To appear in: Féry, Caroline &amp; Shinishiro Ishihara: <a href="http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199642670.001.0001/oxfordhb-9780199642670">The Handbook of Information Structure</a>. Oxford University Press. 541–561 [<a href="http://semanticsarchive.net/Archive/jNlNTc0Y/wagner15informationstructure.pdf">draft: semantics archive</a>] [<a href="http://dx.doi.org/10.1093/oxfordhb/9780199642670.013.39">doi</a>]</p>
+
+<p>Wagner, Michael (2016). How to be kind with prosody. In Proceedings of Speech Prosody, Special Session Satellite Session on Framing speech: Celebrating 40 Years of Inquiry with Stefanie Shattuck- Hufnagel, Boston University, pages 1250–1253. [<a href="http://dx.doi.org/10.21437/SpeechProsody.2016-257">doi</a>]</p>
+
+<p><strong>2015</strong></p>
+
+<p><a href="http://www.danielgoodhue.com/">Goodhue, Dan</a> and Michael Wagner (2015). It’s not just what you say, it’s how you say it: Intonation, yes and no. Deniz Ozyildiz &amp; Thuy Bui (eds.), Proceedings of the 45th Meeting of the North-East Linguistic Society [<a href="http://ling.auf.net/lingbuzz/002866/current.pdf?_s=DIzf2SaWzRgXE9Tw">paper</a>]</p>
+
+<p><a href="http://sites.google.com/site/fhaml044/home">Hamlaoui</a>, Fatima, <a href="http://www.marzenazygis.com/">Marzena Żygis</a>, Jonas Engelmann, and Michael Wagner (2015). Acoustic correlates of focus marking in Polish. <em>Proceedings of the 18th International Congress of Phonetic Sciences (ICPHS) in Glasgow.</em> [<a href="http://prosodylab.org/~chael/papers/Hamlaoui_etal_2015_polish.pdf">paper</a>]</p>
+
+<p><a href="http://hirsch.mit.edu/">Hirsch, Aron</a>. and Michael Wagner (2015). Right node raising, scope, and plurality. In Brochhagen, T., Roelofsen, F., and Theiler, N., editors, Proceedings of the 20th Amsterdam Colloquium, pages 187–196. [<a href="http://prosodylab.org/~chael/papers/hirschwagner2015Amsterdam.pdf">paper</a>] [<a href="http://prosodylab.org/~chael/papers/hirschwagner2015Amsterdam_handout.pdf">handout</a>]</p>
+
+<p><a href="http://hirsch.mit.edu/">Hirsch, Aron</a> and Michael Wagner (2015). Rightward movement affects prosodic phrasing. Deniz Ozyildiz &amp; Thuy Bui (eds.), Proceedings of the 45th Meeting of the North-East Linguistic Society. [<a href="http://prosodylab.org/~chael/papers/Hirsch_Wagner_NELS45.pdf">paper</a>] [<a href="http://prosodylab.org/~chael/papers/Hirsch_Wagner_NELS45_handout.pdf">handout</a>]</p>
+
+<p><a href="http://www.researchgate.net/profile/Thea_Knowles2">Knowles</a>, Thea, <a href="http://speechlearning.lab.mcgill.ca/">Meghan Clayards</a>, <a href="http://people.linguistics.mcgill.ca/~morgan/">M. Sonderegger</a>, <a href="http://prosodylab.org/lab/">Michael Wagner</a>, <a href="http://mcgill.ca/scsd/about/academic-staff/aparnanadig">Aparna Nadig</a>, and <a href="http://www.mcgill.ca/psychology/kristine-h-onishi">Kris Onishi</a>. (2015). Automatic Forced Alignment on Child Speech: Directions for Improvement. <em>Proceedings of Meetings on Acoustics</em> 24. (<a href="http://prosodylab.org/~chael/papers/Knowles-2015.pdf">paper</a>)</p>
+
+<p><a href="http://sites.google.com/site/junkoshimoyama/">Shimoyama, Junko</a>, <a href="http://adrummond.net/">Alex Drummond</a>, <a href="http://sites.google.com/site/bernhardschwarz2003/">Bernhard Schwarz</a> and Michael Wagner. 2015. Movement and ellipsis in afterthought right dislocation, sluicing and fragments. Proceedings of the  Annual Conference of the Canadian Linguistics Association. [<a href="http://prosodylab.org/~chael/papers/Shimoyama_Drummond_Schwarz_Wagner-2015.pdf">paper</a>]</p>
+
+<p><a href="http://people.linguistics.mcgill.ca/~james.tanner/">Tanner</a>, James, <a href="http://people.linguistics.mcgill.ca/~morgan/">Morgan Sonderegger</a>, and Michael Wagner. (2015) Production planning and coronal stop deletion in spontaneous speech. <em>Proceedings of the 18th International Congress of Phonetic Sciences (ICPHS) in Glasgow</em>. [<a href="http://people.linguistics.mcgill.ca/~morgan/tannerEtAl2015Icphs.pdf">paper</a>]</p>
+
+<p>Wagner Michael (2015). Phonological Evidence in Syntax In: Tibor Kiss and Artemis Alexiadou (Eds.): Syntax – Theory and Analysis. An International Handbook. Handbooks of Linguistics and Communication Science. 42. Berlin: Mouton de Gruyter. 1154–1198 [<a href="http://dx.doi.org/10.1515/9783110363708-011">doi</a>] [<a href="http://ling.auf.net/lingbuzz/002195/current.pdf?_s=gEa7vQVQMgEaav6s">preprint: lingbuzz</a>]</p>
+
+<p>Wagner, Michael &amp; <a href="http://jeffreyklassen.weebly.com/">Jeff Klassen</a> (2015). Accessibility is no Alternative to Alternatives. Language, Cognition and Neuroscience. Volume 30, Issue 1-2, 212-233 [<a href="http://www.tandfonline.com/doi/abs/10.1080/23273798.2014.959532" title="doi">doi</a>] [<a href="http://semanticsarchive.net/Archive/jU1YjExN/wagnerklassen14alternatives.pdf">preprint: semantics archive</a>]</p>
+
+<p><strong>2014</strong></p>
+
+<p>McClay, Elise &amp; Michael Wagner (2014). Accented Pronouns and Contrast. Proceedings of the 50th Meeting of the Chicago Linguistics Society in 2014. [<a href="http://semanticsarchive.net/Archive/2I2ODdhM/mcclaywagner2014cls.pdf">paper</a>]</p>
+
+<p><strong>2013</strong></p>
+
+<p>Daniel Goodhue, James Pickett and Michael Wagner. English reverse prosody in responses to yes-no questions. Proceedings Semantics of Dialogue (Semdial). [<a href="http://www.illc.uva.nl/semdial/dialdam/papers/GoodhueEtal_dialdam.pdf">paper</a>]</p>
+
+<p>Wagner, Michael, Lauren Mak and Elise McClay. Incomplete Answers and the Rise- Fall-Rise Contour. Proceedings of Semantics of Dialogue (Semdial). [<a href="http://www.illc.uva.nl/semdial/dialdam/papers/WagnerEtal_dialdam.pdf">paper</a>]</p>
+
+<p>Fleischer, David, Michael Wagner, and Meghan Clayards. A following sibilant increases the ambiguity of a sibilant continuum. Proceedings of the Annual Meeting of the Acoustical Society of America. [<a href="http://dx.doi.org/10.1121/1.4800753">doi</a>]</p>
+
+<p><strong>2012</strong></p>
+
+<p>Wagner, Michael. Contrastive Topics Decomposed. <em>Semantics &amp; Pragmatics</em> 5.8. 1-54. <a href="http://dx.doi.org/10.3765/sp.5.8">[doi]</a></p>
+
+<p>Wagner, Michael. A Givenness Illusion. <em>Language and Cognitive Processes</em>. 27.10 1433-1458. <a href="http://www.tandfonline.com/doi/abs/10.1080/01690965.2011.607713">[doi]</a>.</p>
+
+<p>Wagner, Michael. Focus and Givenness: A Unified Approach. In: Ivona Kučerová and Ad Neeleman: Contrasts and Positions in Information Structure. Cambridge University Press. 102–148. [<a href="http://semanticsarchive.net/Archive/GNmMjJlN/index.html">Paper</a>]</p>
+
+<p>Wagner, Michael. Locality in Phonology and Production Planning. In: A. McKillen &amp; J. Loughran (eds.): <a href="http://www.mcgill.ca/mcgwpl/archives/volume-221-2012">Proceedings of the Montreal-Ottawa-Toronto (MOT) Phonology Workshop 2011</a>. Phonology in the 21st Century: In Honour of Glyne Piggott. McGill Working Papers in Linguistics 22(1). [<a href="http://prosodylab.org/~chael/papers/wagner2012production.pdf">paper</a>] [<a href="http://ling.auf.net/lingbuzz/002217">on lingbuzz</a>]</p>
+
+<p><strong>2011</strong></p>
+
+<p>Gorman, Kyle, Jonathan Howell and Michael Wagner. Prosodylab-Aligner: A Tool for Forced Alignment of Laboratory Speech. Canadian Acoustics. 39.3. 192–193. <a href="http://prosodylab.org/~chael/papers/gorman11prosodylabaligner.pdf">[preprint]</a> <a href="http://jcaa.caa-aca.ca/index.php/jcaa/article/view/2476/2225">[paper]</a></p>
+
+<p>Lovseth, K., de la Parra, L., Wagner, M., and Titone, D. A. (2011). Familiarity and decomposability modulate the prosodic realization of figuratively vs. literally intended idioms during natural speech production. In Ostry, D., Baum, S. R., M ́enard, L., and Gracco, V. L., editors, Proceedings of 9th International Seminar on Speech Production (ISSP), pages 377–384. [<a href="http://prosodylab.org/~chael/papers/lovsethetal11.pdf">paper</a>]</p>
+
+<p>Wagner, Michael. Production planning constraints on allomorphy. Canadian Acoustics. 39.3. 160–161. <a href="http://prosodylab.org/~chael/papers/wagner11allomorphy.pdf">[preprint]</a> <a href="http://jcaa.caa-aca.ca/index.php/jcaa/article/view/2460/2209">[paper]</a></p>
+
+<p><strong>2010</strong></p>
+
+<p>Wagner, Michael and Katherine McCurdy. Poetic rhyme reflects cross-linguistic differences in information structure. <em>Cognition</em> 117. 166–175. <a href="http://www.sciencedirect.com/science/article/pii/S0010027710001769">[doi] [paper]</a> [<a href="http://www.ncbi.nlm.nih.gov/pubmed/20889149">pubmed</a>] <a href="http://www.semanticsarchive.net/Archive/zVjOWI5M/index.html">[preprint]</a> <a href="http://prosodylab.org/?page_id=795">[items]</a></p>
+
+<p>Wagner, Michael. Prosody and recursion in coordinate structures and beyond. <em>Natural Language and Linguistic Theory</em>. 28: 183–237 [<a href="http://dx.doi.org/10.1007/s11049-009-9086-0">doi</a>] [<a href="http://ling.auf.net/lingBuzz/000430">preprint</a>]</p>
+
+<p>Breen, Mara, Evelina Fedorenko, Michael Wagner and Edward Gibson: Acoustic correlates of information structure. _Language and Cognitive Processes_25.7. 1044–1098. <a href="http://dx.doi.org/10.1080/01690965.2010.504378">[doi]</a></p>
+
+<p>Wagner, Michael and Duane Watson: Experimental and theoretical advances in prosody: A review. Introduction to special issue of <em>Language and Cognitive Processes</em>. 25.7. 905–945. [<a href="http://dx.doi.org/10.1080/01690961003589492">doi</a>] .</p>
+
+<p>Wagner, Michael, Mara Breen, Edward Flemming, Stefanie Shattuck-Hufnagel and Ted Gibson: Prosodic Effects of Discourse Salience and Association with Focus. Speech Prosody, University of Chicago. [4pp] [<a href="http://prosodylab.org/~chael/papers/wagneretal10only.pdf">paper</a>]</p>
+
+<p>Wagner, Michael and Serena Crivellaro: Relative Prosodic Boundary Strength and Prior Bias in Disambiguation. Speech Prosody, University of Chicago. [4pp] [<a href="http://prosodylab.org/~chael/papers/wagnercrivellaro10.pdf">paper</a>]</p>
+
+<p><strong>2009</strong></p>
+
+<p>Wagner, Michael. Focus, Topic, and Word order: A Compositional View. <em>Alternatives to Cartography</em>. Edited by Jeroen van Craenenbroeck. Berlin/New York: Mouton de Gruyter. 53–86. [<a href="http://semanticsarchive.net/Archive/mYyNDQ5Z/abstract.html">Preprint</a>] [<a href="http://dx.doi.org/10.1515/9783110217124.53">doi</a>]</p>
+
+<p><strong>2008</strong></p>
+
+<p>Wagner, Michael. A compositional analysis of contrastive topics. Muhammad Abdurrahman and Anisa Schardl and Martin Walkow: <em>Proceedings of NELS 2007</em>. Volume I. GLSA Publications. 415–428. [<a href="http://semanticsarchive.net/Archive/zYyZTBhO/">Paper</a>]</p>
+
+<p>Wagner, Michael. <code class="language-plaintext highlighter-rouge">And', </code>or’, and ∅. <em>Snippets</em> 17. 11–12. [<a href="http://www.ledonline.it/snippets/allegati/snippets17004.pdf">paper</a>]</p>
+
+<p><strong>2007</strong></p>
+
+<p>Wagner, Michael. A note on stress in intransitives in English. <em>Snippets</em> 16. 19–20. [<a href="http://www.ledonline.it/snippets/allegati/snippets16008.pdf">paper</a>]</p>
+
+<p>Wagner, Michael. Prosodic Evidence for Recursion? Posted on lingbuzz in December 2007. [<a href="http://ling.auf.net/lingbuzz/000568">paper</a>]</p>
+
+<p>Bachrach, Asaf &amp; Michael Wagner. Syntactically Driven Cyclicity vs. Output-Output Correspondence: The Case of Adjunction in Diminutive Morphology. Posted on lingbuzz in January 2007. [<a href="http://ling.auf.net/lingbuzz/000383">paper</a>]</p>
+
+<p><strong>2006</strong></p>
+
+<p>Wagner, Michael. Association by Movement. Evidence from NPI-Licensing. Natural Language Semantics. <em>Natural Language Semantics</em> 14. 297–324. [<a href="http://dx.doi.org/10.1007/s11050-007-9005-z">doi</a>] [<a href="http://semanticsarchive.net/Archive/TRmODQ1N/">preprint</a>]</p>
+
+<p>Wagner, Michael. Givenness and Locality. In: M. Gibson &amp; J. Howell (eds.): <em>Proceedings of SALT XVI</em>. Ithaca, NY: CLC Publications. 295–312. [<a href="http://dx.doi.org/1813/7594">doi</a>]</p>
+
+<p><strong>2005</strong></p>
+
+<p>(2005) Prosody and Recursion. Ph.D. Dissertation, Massachusetts Institute of Techonology (Some typos corrected 2007). [<a href="http://hdl.handle.net/1721.1/33713">Thesis</a>]</p>
+
+<p>Note: Some parts of the thesis have been superceded by the <a href="http://ling.auf.net/lingbuzz/@kKQeVTTVqglZdMig">paper on Coordinate Structures</a> and the <a href="http://semanticsarchive.net/Archive/2ViYWM1O/">Givenness Paper</a> listed above!</p>
+
+<p>Wagner, Michael. NPI-Licensing and Focus Movement. In: Effi Georgala and Jonathan Howell (eds.): <em>Proceedings of SALT XV</em>. Ithaca, NY: CLC Publications. [<a href="http://semanticsarchive.net/Archive/jAzYmYwY/wagner05salt.pdf">Semantics Archive</a>] [<a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/viewFile/3096/2819">Paper</a>] [<a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/viewFile/3096/2819">doi</a>]</p>
+
+<p>Wagner, Michael. Asymmetries in Prosodic Domain Formation. In: Norvin Richards and Martha Mcginnis (eds.): Perspectives on Phases. Cambridge, MA: MITWPL 49. 329–367. [<a href="http://ling.auf.net/lingBuzz/000429">Paper</a>]</p>
+
+<p><strong>2004</strong></p>
+
+<p>Wagner, Michael. Prosody as Diagonalization of Syntax. Evidence from Complex Predicates. In Keir Moulton and Matthew Wolf (eds.): <em>Proceeding of NELS 34</em>. SUNY Stony Brook, 2003. [15pp] <a href="http://prosodylab.org/~chael/papers/wagner04nels.pdf">[Paper]</a></p>
+
+<p>Wagner, Michael. Asymmetries in the Syntax and Prosody of Verb-Intial Interpolated Clauses in German. <em>Proceedings of Console XII 2003</em>, University of Patras, Greece. [15pp.] [<a href="http://prosodylab.org/~chael/papers/wagner03slifting.pdf">Paper</a>] [Published]</p>
+
+<p><strong>2003</strong></p>
+
+<p>Jaeger, Florian and Michael Wagner. Association with Focus and Linear Order in German. Available on the Semantics Archive. <a href="http://semanticsarchive.net/Archive/DVkNDY4M/E_Jaeger+Wagner_2003.pdf">[Paper]</a></p>
+
+<p><strong>2002</strong></p>
+
+<p>2002 The role of prosody in laryngeal neutralization. In: Aniko Csirmaz, Zhiqiang Li, Andrew Nevins, Olga Vaysman, and Michael Wagner (eds.): Phonological Answers. MIT Working Papers in Linguistics 42. 357–376. <a href="http://prosodylab.org/~chael/papers/wagner02laryngeal.pdf">[Paper]</a></p>
+
+</div>
+
+
+
+
+    </main>
+
+    <!-- Optional footer content -->
+
+  </body>
+</html>

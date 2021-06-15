@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <title>
+    
+      crowdsourcing academic integrity &middot; prosodylab
+    
+  </title>
+
+  
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+
+  <!-- Additional head bits without overriding original head -->
+</head>
+
+
+  <body class="post">
+
+    
+<div id="sidebar">
+<!--
+<img src="public/kazoo_widemargin.png" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+-->
+<img src="https://raw.githubusercontent.com/prosodylab/kazoo/master/kazoo_widecanvas.png?raw=true" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+  <header>
+  
+    <div class="site-title">
+      <a href="/">
+        
+          <span class="back-arrow icon"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg></span>
+        
+        prosodylab
+      </a>
+    </div>
+    <p class="lead">a research lab at mcgill</p>
+  </header>
+  <nav id="sidebar-nav-links">
+  
+  
+
+  
+
+  
+
+
+  
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/about.html">about</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+      <a class="page-link "
+          href="/output.html">output</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/projects.html">projects</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/tools.html">tools</a>
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/bestiary.html">bestiary</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/field%20station.html">field station</a>
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  <!-- Optional additional links to insert in sidebar nav -->
+</nav>
+
+
+  
+
+  <nav id="sidebar-icon-links">
+  
+
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="/feed.xml">
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <circle cx="6.18" cy="17.82" r="2.18"/>
+    <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+</svg>
+  </a>
+
+  
+  
+  
+  
+
+  
+    <a id="tags-link"
+       class="icon"
+       title="Tags" aria-label="Tags"
+       href="/tags.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M17.63 5.84C17.27 5.33 16.67 5 16 5L5 5.01C3.9 5.01 3 5.9 3 7v10c0 1.1.9 1.99 2 1.99L16 19c.67 0 1.27-.33 1.63-.84L22 12l-4.37-6.16z"/>
+</svg>
+    </a>
+  
+
+  
+    <a id="search-link"
+       class="icon"
+       title="Search" aria-label="Search"
+       href="/search.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+    </a>
+  
+
+  <!-- Optional additional links to insert for icons links -->
+</nav>
+
+  <p>
+  &copy; 2021
+  <!-- <a href="/LICENSE.md">MIT License.</a> --!>
+  Michael Wagner
+</p>
+
+</div>
+
+
+    <main class="container">
+      <header>
+  <h1 class="post-title">crowdsourcing academic integrity</h1>
+</header>
+<div class="content">
+  <div class="post-meta">
+  <span class="post-date">24 Feb 2011</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        admittedly not on prosody
+      
+    
+  </span>
+</div>
+
+
+  <div class="post-body">
+    <p>Next time you’re walking out of a German supermarket with 302 items hidden in your coat that you didn’t pay for and you are faced with some uncomfortable questions by a security guard try the following: say that the suspicion of theft is absurd. Then, after your loot has been tallied by the security guard, admit that there may have been a few mistakes in your shopping procedure, but that you were incredibly busy thinking of other stuff, and stick to your original claim that the suspicion of deliberate theft remains an absurd one.</p>
+
+<p>At least this seems to be working for German defence minister Karl Theodor Maria Nikolaus Johann Jacob Philipp Franz Joseph Sylvester Freiherr von und zu Guttenberg, who, even after 302 instances of copied or directly translated material have been spotted in his dissertation by a <a href="http://de.guttenplag.wikia.com/wiki/Zwischenbericht">crowdsourcing wiki</a> still denies having committed deliberate plagiarism. According to the wiki, over 20% of all lines of text in the dissertation have been taken from other publications without giving proper credit. The university has taken away his doctorate title yesterday, but stopped short of alleging deliberate plagiarism. And Guttenberg is adamant that there was no intent of fraud.</p>
+
+<p><a href="http://de.guttenplag.wikia.com/index.php?title=Zwischenbericht&amp;image=Barcode-Zwischenbericht-svg"><img src="/assets/images/2011/02/720px-Barcode-Zwischenbericht.svg.png" alt="" /></a></p>
+
+<p>The above graph visualizes the findings of the wiki’s ‘intermediate report.’ On the x-axis are the pages. The table of contents and appendices are colored in blue. Black marks pages on which suspected plagiarized material has been found, red marks pages on which multiple instances of plagiarism have been found. Yellow is used for a substantial part which was probably ripped from a report prepared by employees of the parliament. White, finally, is used for pages on which there have so far not been any suspicious findings. The percentage of pages that are not white (excluding the blue pages in the total) is close to 70% (although the percentage of more than 20% of the lines seems more meaningful–not that the difference in percentages really matters).</p>
+
+<p>Update March 3:<br />
+Guttenberg has resigned and admitted that his dissertation was ‘fehlerhaft’. The word means something like ‘it contained mistakes’, and clearly implies that there was no intent. This is a nice euphemism for what anyone who has looked at the findings on the wiki would call deliberate plagiarism using various tricks to conceal the original sources (either by Guttenberg or a ghostwriter). The resignation speech was emotionally charged, and did not stop short of enlisting fallen German soldiers in an attempt to raise anger against the naughty media who wouldn’t let go of this story, but was carefully crafted to only admit what even the strongest supporters of Guttenberg had to come to accept was true. The <a href="www.uni-bayreuth.de">University of Bayreuth</a> is still deliberating whether they can safely conclude that this was intentional plagiarism. The successor of Guttenberg’s advisor at Bayreuth has in the meantime called a spade spade, or rather, <a href="http://www.faz.net/s/Rub1ED0C280BBA14ACAB16800E2F760DF3E/Doc~E6C1D44EB8A7E43059E1972AFF77E54EB~ATpl~Ecommon~Scontent.html">a con man a con man</a>.</p>
+
+
+    
+
+
+
+<div class="post-tags">
+  
+</div>
+  </div>
+
+  
+  <section class="comments">
+    <h2>Comments</h2>
+    
+  <p>
+    You are seeing this because your Disqus shortname is not properly set. To
+    configure Disqus, you should edit your <code>_config.yml</code> to include
+    either a <code>disqus.shortname</code> variable.
+  </p>
+
+  <p>
+    If you do not wish to use Disqus, override the
+    <code>comments.html</code> partial for this theme.
+  </p>
+
+
+  </section>
+
+  <section class="related">
+  <h2>Related Posts</h2>
+  <ul class="posts-list">
+    
+      <li>
+        <h3>
+          <a href="/field%20station/2021/06/08/experiment-rhyme.html">
+            Experiment: Rhymes in English
+            <small>08 Jun 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/field%20station/2021/06/08/experiment-itl.html">
+            Experiment: Iambic Trochaic Law
+            <small>08 Jun 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2021/deaccentuation-at-glow/">
+            deaccentuation at glow
+            <small>22 Apr 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</section>
+
+</div>
+
+    </main>
+
+    <!-- Optional footer content -->
+
+  </body>
+</html>

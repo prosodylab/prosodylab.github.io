@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+  <title>
+    
+      if worst comes to worst &middot; prosodylab
+    
+  </title>
+
+  
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+
+  <!-- Additional head bits without overriding original head -->
+</head>
+
+
+  <body class="post">
+
+    
+<div id="sidebar">
+<!--
+<img src="public/kazoo_widemargin.png" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+-->
+<img src="https://raw.githubusercontent.com/prosodylab/kazoo/master/kazoo_widecanvas.png?raw=true" alt="kazoo" class="center" style="border-radius:50%" width=200 height=auto/>
+  <header>
+  
+    <div class="site-title">
+      <a href="/">
+        
+          <span class="back-arrow icon"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg></span>
+        
+        prosodylab
+      </a>
+    </div>
+    <p class="lead">a research lab at mcgill</p>
+  </header>
+  <nav id="sidebar-nav-links">
+  
+  
+
+  
+
+  
+
+
+  
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/about.html">about</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+      <a class="page-link "
+          href="/output.html">output</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/projects.html">projects</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/tools.html">tools</a>
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/bestiary.html">bestiary</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/field%20station.html">field station</a>
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+  <!-- Optional additional links to insert in sidebar nav -->
+</nav>
+
+
+  
+
+  <nav id="sidebar-icon-links">
+  
+
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="/feed.xml">
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <circle cx="6.18" cy="17.82" r="2.18"/>
+    <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+</svg>
+  </a>
+
+  
+  
+  
+  
+
+  
+    <a id="tags-link"
+       class="icon"
+       title="Tags" aria-label="Tags"
+       href="/tags.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <path d="M17.63 5.84C17.27 5.33 16.67 5 16 5L5 5.01C3.9 5.01 3 5.9 3 7v10c0 1.1.9 1.99 2 1.99L16 19c.67 0 1.27-.33 1.63-.84L22 12l-4.37-6.16z"/>
+</svg>
+    </a>
+  
+
+  
+    <a id="search-link"
+       class="icon"
+       title="Search" aria-label="Search"
+       href="/search.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+    </a>
+  
+
+  <!-- Optional additional links to insert for icons links -->
+</nav>
+
+  <p>
+  &copy; 2021
+  <!-- <a href="/LICENSE.md">MIT License.</a> --!>
+  Michael Wagner
+</p>
+
+</div>
+
+
+    <main class="container">
+      <header>
+  <h1 class="post-title">if worst comes to worst</h1>
+</header>
+<div class="content">
+  <div class="post-meta">
+  <span class="post-date">09 Feb 2010</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        admittedly not on prosody
+      
+    
+      &bull;
+
+      
+      
+      
+
+      
+        discussion
+      
+    
+  </span>
+</div>
+
+
+  <div class="post-body">
+    <p>I was about to write <em>if worse comes to worst</em> in an email, and then realized that I’m actually not sure what the correct idiom exactly is. The difference between <em>worse</em> and <em>worst</em> is hard to hear, and it’s not so clear that it has a transparent compositional meaning, so neither sound nor meaning really help. A quick Google vote seemed to resolve this, but not in an entirely crisp way:</p>
+
+<p>“worst comes to worst” – 149.000 hits<br />
+“worse comes to worst” – 47.800 hits<br />
+“worst comes to worse” – 578.000 hits<br />
+“worse comes to worse” – 7.370.00 hits</p>
+
+<p>So I went with ‘worse comes to worse.’ However, the <a href="http://books.google.ca/books?id=2yJusP0vrdgC&amp;pg=PA965&amp;dq=%22worst+comes+to+worst%22+merriam+webster&amp;ei=vghxS5XUHaa8zgSUiNSJDg&amp;cd=1#v=onepage&amp;q=&amp;f=false">Merriam Webster’s Dictionary of English usage</a> states that the original phrase is ‘if the worst comes to the worst,’ first used in 1597, and then goes to say that</p>
+
+<blockquote>
+  <p>[…] presumably, it was the desire to make the phrase more logical that gave rise to the variant <em>if the worse comes to the worst</em>.</p>
+</blockquote>
+
+<p>Not sure exactly how that’s more logical, but I guess that was my first intuition too. At any rate, this version was first recorded in Dafoe’s 1719’s Robinson Crusoe and has become wide-spread since then. The article concludes as follows:</p>
+
+<blockquote>
+  <p>The forms which are most commonly used are <em>if worst comes to worst</em> and <em>if worse comes to worst</em>. There are those who regard the form having <em>worse</em> as incorrect, but its use is too widespread and well established for it to be regarded as anything other than standard. Use of <em>if worse comes to worse</em> is considerably less common, at least in print. The definite articles are now omitted more often than not.</p>
+</blockquote>
+
+<p>Things may have changed since the dictionary was published (this is the 1994 edition, I should check a more recent one). <em>Worst comes to worse</em> is not even mentioned, and the Google counts clearly make <em>if worse comes to worse</em> the most frequent. However, there may be some distortions due to the various discussions of what the correct way of saying it is (and people like me are still allowed to post in English on the internet)… .</p>
+
+<p>One reason why <em>worse comes to worse</em> might be chosen sometimes instead of <em>worse comes to worst</em> is that it (re-)creates a parallelism. But suppose that this innovation leads again to attempts to to make the idiom more ‘logical.’ Then we would expect… right:</p>
+
+<p>“bad comes to worse” – 59,000 hits<br />
+“worse comes to bad” – 2 hits, one of which is actually “worse comes to bad luck”</p>
+
+<p>And if this catches one, I guess the step would be to make it more parallel again, and this would lead to…</p>
+
+<p>“bad comes to bad” – 5 hits.</p>
+
+<p>Soon to be 6 I guess. So possibly both parallelism and semantically motivated changes are at play in determining how this idiom meanders through its various versions… Or maybe things are simply getting better rather than worse over time?</p>
+
+<p>Update Feb 6 2011: Thought I’d add a graph from the <a href="http://ngrams.googlelabs.com/graph?content=worst+comes+to+worst,+worse+comes+to+worst,+worse+comes+to+worse,+worst+comes+to+worse&amp;year_start=1800&amp;year_end=2000&amp;corpus=0&amp;smoothing=3">google ngram viewer</a>:</p>
+
+<p><img src="/assets/images/2010/02/worse.jpg" alt="worse" /></p>
+
+<p>The version ‘worst comes to worst’ is ahead of “worse comes to worst” at a pretty steady margin from about the 1880s until world war II, but then and shortly after the overall frequency of the expression is going up (maybe not surprisingly) and it’s “worst comes to worst” that’s driving the effect. Since then, however, ‘worse comes to worst’ has caught up, and may be taking over, and “worse comes to worse” is rising…</p>
+
+
+    
+
+
+
+<div class="post-tags">
+  
+</div>
+  </div>
+
+  
+  <section class="comments">
+    <h2>Comments</h2>
+    
+  <p>
+    You are seeing this because your Disqus shortname is not properly set. To
+    configure Disqus, you should edit your <code>_config.yml</code> to include
+    either a <code>disqus.shortname</code> variable.
+  </p>
+
+  <p>
+    If you do not wish to use Disqus, override the
+    <code>comments.html</code> partial for this theme.
+  </p>
+
+
+  </section>
+
+  <section class="related">
+  <h2>Related Posts</h2>
+  <ul class="posts-list">
+    
+      <li>
+        <h3>
+          <a href="/field%20station/2021/06/08/experiment-rhyme.html">
+            Experiment: Rhymes in English
+            <small>08 Jun 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/field%20station/2021/06/08/experiment-itl.html">
+            Experiment: Iambic Trochaic Law
+            <small>08 Jun 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2021/deaccentuation-at-glow/">
+            deaccentuation at glow
+            <small>22 Apr 2021</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</section>
+
+</div>
+
+    </main>
+
+    <!-- Optional footer content -->
+
+  </body>
+</html>

@@ -1,0 +1,2 @@
+I"	<p>The <a href="http://prosodylab.org/tools/aligner/">Prosodylab-Aligner</a> is a set of Python and shell scripts for performing automated alignment of text to audio of speech using Hidden Markov Models developed in our lab by <a href="http://ling.upenn.edu/~kgorman/">Kyle Gorman</a>. It is designed to be easy to use as possible, and with laboratory data in mind. While it ships with pre-trained North American English phoneme models based on data collected in our lab, it also supports training on arbitrary data.</p>
+:ET
