@@ -3,6 +3,8 @@ layout: post
 title: two talks  at mcgill on friday
 date: 2011-04-06 23:42:28.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
+parent_id: '0'
 parent_id: '0'
 published: true
 password: ''

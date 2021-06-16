@@ -6,6 +6,7 @@ type: post
 parent_id: '0'
 published: true
 password: ''
+excerpt_separator: "<!--more-->"
 status: publish
 categories:
 - admittedly not on prosody
@@ -29,6 +30,8 @@ I was about to write _if worse comes to worst_ in an email, and then realized th
 "worse comes to worse" -- 7.370.00 hits
 
 So I went with 'worse comes to worse.' However, the [Merriam Webster's Dictionary of English usage](http://books.google.ca/books?id=2yJusP0vrdgC&pg=PA965&dq=%22worst+comes+to+worst%22+merriam+webster&ei=vghxS5XUHaa8zgSUiNSJDg&cd=1#v=onepage&q=&f=false) states that the original phrase is 'if the worst comes to the worst,' first used in 1597, and then goes to say that
+
+<!--more-->
 
 > [...] presumably, it was the desire to make the phrase more logical that gave rise to the variant _if the worse comes to the worst_.
 

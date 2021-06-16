@@ -4,7 +4,9 @@ title: Alternatives to Cartography
 date: 2009-12-10 15:11:24.000000000 -05:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
+excerpt_separator: "<!--more-->"
 password: ''
 status: publish
 categories:

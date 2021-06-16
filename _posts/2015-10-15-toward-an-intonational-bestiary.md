@@ -3,6 +3,7 @@ layout: post
 title: toward an intonational bestiary
 date: 2015-10-15 21:32:03.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

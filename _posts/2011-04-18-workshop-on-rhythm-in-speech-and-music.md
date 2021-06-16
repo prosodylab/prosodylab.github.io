@@ -3,6 +3,7 @@ layout: post
 title: workshop on rhythm in speech and music
 date: 2011-04-18 02:35:10.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''
@@ -27,6 +28,8 @@ The [CRLMB](http://www.crlmb.ca/) and [CRMMT](http://www.cirmmt.mcgill.ca/) are 
 _CIRMMT Distinguished Lecture by Dr. Ani Patel (co-sponsored by CRLMB)_
 
 Dr. Ani Patel (The Neurosciences Institute) will give a lecture entitled "Relations between linguistic and nonlinguistic sound systems: Empirical studies," on April 21st in the Clara Lichtenstein Recital Hall (C-209), Strathcona Music Building, 555 Sherbrooke St. West, Montreal at 4:30 p.m. until 6:00 p.m.
+
+<!--more-->
 
 The CIRMMT-CRLMB Workshop on Rhythm in Speech and Music will also take place on the 21st of April between 10:00 am and 2:30 p.m. Registration is not required but please be advised that space is limited to approximately 40 people, so you are advised to arrive early.
 

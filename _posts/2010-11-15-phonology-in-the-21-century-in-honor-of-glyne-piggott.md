@@ -3,6 +3,7 @@ layout: post
 title: 'phonology in the 21 century: in honor of glyne piggott'
 date: 2010-11-15 17:16:40.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

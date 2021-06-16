@@ -3,6 +3,7 @@ layout: post
 title: new paper about the processing of relative clauses
 date: 2018-08-27 17:04:43.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

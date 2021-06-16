@@ -3,6 +3,7 @@ layout: post
 title: etap3--deadline this monday!
 date: 2015-01-08 17:30:02.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

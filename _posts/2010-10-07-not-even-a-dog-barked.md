@@ -5,6 +5,7 @@ date: 2010-10-07 01:09:00.000000000 -04:00
 type: post
 parent_id: '0'
 published: true
+excerpt_separator: "<!--more-->"
 password: ''
 status: publish
 categories:
@@ -25,11 +26,14 @@ permalink: "/2010/not-even-a-dog-barked/"
 <p>But coming back to the clichés (this post will touch on prosody eventually...). One very noticeable trope that keeps coming up in <em>All the pretty horses</em> are animal emitted and other scene-setting  sounds. There's coyotes yammering and yapping, horse whinnying, desert doves waking, and, yes, dogs are barking. Pointing out that barking dogs are a cliché is already a cliché itself, but <a href="http://www.slate.com/id/2256007/">this article </a>, which I came across googleing around while writing this blog post, does a particularly good job at that, and also at providing ample evidence that dogs bark everywhere around us the moment we pick up a book. And they form such a natural and effective part of the narrative in <em>All the pretty horses</em> that one has to conclude that tropes cannot be branded as clichés by themselves and black-listed because of how they have come to be used previously---
 how stale or original they seem all depends on how they are used in a particular case. Maybe [prescriptive rules on how to avoid clichés](http://www.ehow.com/how_5423914_avoid-clichs-writing.html) are at the level of content what prescriptive rules about grammar at the level of style: silly. And maybe using clichés is like splitting infinitives: At times awkward, but often appropriate and [sometimes necessary](http://itre.cis.upenn.edu/~myl/languagelog/archives/000901.html).
 
+
 So what are scene-setting sounds? I mean sounds that are not really part of the plot, but are used to set the stage, they are part of the background. The border between sounds that are part of the plot and those that are just background is blurry of course, and it's often artificial to single out sounds from other scene-setting elements and descriptions of nature, but let's go with the prototype of the notorious barking dog and see what we find.
 
 The first occurrence in _All the Pretty Horses_ is on page three:
 
 _In the distance, a calf bawled._
+
+<!--more-->
 
 The last one is on page page 286 (out of 302):
 

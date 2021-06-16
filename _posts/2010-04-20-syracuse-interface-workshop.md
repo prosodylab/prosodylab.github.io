@@ -7,6 +7,7 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
+excerpt_separator: "<!--more-->"
 categories:
 - conferences
 tags: []
@@ -21,6 +22,9 @@ author:
 permalink: "/2010/syracuse-interface-workshop/"
 ---
 [Arsalan Kahnemuyipour](http://lang.syr.edu/index.php?pgm=Linguistics&page=fac_kahnemuyipour) and [Jaklin Kornfilt](http://lang.syr.edu/index.php?pgm=Linguistics&page=fac_kornfilt) have organized an interface workshop at [Syracuse University](http://lang.syr.edu/). You can download the program with abstracts [here](http://prosodylab.org/~chael/www/ScheduleAbstracts.pdf).
+
+<!--more-->
+
 
 Here's the schedule (Friday April 23 and Saturday April 24):
 

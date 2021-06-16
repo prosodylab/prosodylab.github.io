@@ -3,6 +3,7 @@ layout: post
 title: daniel büring at mcgill
 date: 2011-09-20 22:12:44.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''
@@ -33,7 +34,9 @@ Saturday, September 24
 Daniel Büring: Correspondence at the Syntax–Phonology Interface  
 (joint work with Hubert Truckenbrodt, ZAS, Berlin)
 
-Abstract: In this paper we analyze the syntax-to-prosody mapping in German and English using Correspondence Theory. Our proposal develops the original ideas of containment based mapping theories like Truckenbrodt's (1995) StressXP/WrapXP and is offshoots such as Selkirk's (2009) recent Match theory, but tackles a number of notorious problems for these, in particular the interaction of stress assignment and movement, as well as directional asymmetries with predicate integration as well as focus. We argue that the correspondence theoretic format offers distinctive advantages in these realms.
+*Abstract: In this paper we analyze the syntax-to-prosody mapping in German and English using Correspondence Theory. Our proposal develops the original ideas of containment based mapping theories like Truckenbrodt's (1995) StressXP/WrapXP and is offshoots such as Selkirk's (2009) recent Match theory, but tackles a number of notorious problems for these, in particular the interaction of stress assignment and movement, as well as directional asymmetries with predicate integration as well as focus. We argue that the correspondence theoretic format offers distinctive advantages in these realms.**
+
+<!--more-->
 
 B. Monday, September 26  
 Mini-Workshop on Semantics  

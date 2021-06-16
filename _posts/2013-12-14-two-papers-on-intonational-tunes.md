@@ -3,6 +3,7 @@ layout: post
 title: two papers on intonational tunes
 date: 2013-12-14 11:52:19.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

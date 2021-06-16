@@ -5,6 +5,7 @@ date: 2011-02-08 01:05:22.000000000 -05:00
 type: post
 parent_id: '0'
 published: true
+excerpt_separator: "<!--more-->"
 password: ''
 status: publish
 categories:
@@ -23,6 +24,8 @@ author:
 permalink: "/2011/benchmarking-academia/"
 ---
 Malcolm Gladwell has [an interesting article about college education rankings in the current New Yorker](http://www.newyorker.com/reporting/2011/02/14/110214fa_fact_gladwell). The problem with college rankings, he argues, is that they try to accomplish too much at the same time: rank very different institutions along multiple dimensions. The effect is that decisions about the weighting of the different factors lead to very different rankings, and it is the interests or ideological biases of those who conduct the study and determine the weights.
+
+<!--more-->
 
 The recent [NRC study](http://sites.nationalacademies.org/PGA/Resdoc/index.htm) on the quality of doctoral programs in the US tried various ways to avoid these pitfalls, by asking faculty which criteria they think are most relevant, by allowing users of the results to determine their own weightings and explore the data, and by adding error bars to their rankings, a step away from the dubious exercise of assigning a single number to measure quality. But this also had the result that the data is unwieldy and more difficult to interpret (rather than having a particular rank, the department's rank along a certain dimension is an interval, somewhere between 25 and 5). There have also been critiques that the release of the data took so long that they're already out of date, and also that some of the results are based on inaccurate data or are non-sensical (see [here](http://www.insidehighered.com/news/2010/09/29/rankings) for some discussion, and [here](http://graduate-school.phds.org/rankings/linguistics) if you want to play with the linguistics rankings--of course, Canadian universities do not figure into these stats).
 

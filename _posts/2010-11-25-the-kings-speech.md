@@ -6,6 +6,7 @@ type: post
 parent_id: '0'
 published: true
 password: ''
+excerpt_separator: "<!--more-->"
 status: publish
 categories:
 - discussion
@@ -23,6 +24,8 @@ author:
 permalink: "/2010/the-kings-speech/"
 ---
 A [movie](http://www.imdb.com/title/tt1504320/) about [King George VI](http://en.wikipedia.org/wiki/George_VI_of_the_United_Kingdom#World_War_II) is soon to be released in North America (December 10 in Canada), which centers around his stammer, and his successful way of dealing with it in a job that turned out to require lot of public speaking. He worked with speech pathologist [Lionel Logue](http://en.wikipedia.org/wiki/Lionel_Logue) to overcome the problem. You can listen to a recording of a famous Christmas address of his given in 1939 [here](http://archives.cbc.ca/on_this_day/12/25/) (it takes a little while before the recording starts playing).
+
+<!--more-->
 
 I'm looking forward to it. After struggling at least until the age of 17 with a mild stammer, or in my case rather a problem with initiating speaking (which very rarely still haunts me today), I'm always fascinated/mortified by depictions of the issues you have to deal with, the embarrassment and the pressure when all eyes and ears are on you, but nothing comes out. A big movie can only help creating some awareness.
 

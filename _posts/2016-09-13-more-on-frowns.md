@@ -3,6 +3,7 @@ layout: post
 title: more on frowns
 date: 2016-09-13 22:31:54.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

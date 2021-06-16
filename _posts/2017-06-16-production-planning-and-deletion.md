@@ -3,6 +3,7 @@ layout: post
 title: production planning and deletion
 date: 2017-06-16 04:22:31.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

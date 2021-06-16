@@ -3,6 +3,7 @@ layout: post
 title: toronto intonation workshop
 date: 2019-02-15 10:22:19.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''
@@ -19,9 +20,7 @@ author:
   last_name: Wagner
 permalink: "/2019/toronto-intonation-workshop/"
 ---
-<!-- wp:html -->
 
 [Slides](http://prosodylab.org/data/bestiary/toronto/) on the [intonational bestiary](http://prosodylab.cs.mcgill.ca/research/bestiary/) at the [4th Intonation Workshop at University of Toronto](https://uoftintonationworkshop.weebly.com/), reporting on joint work with [Dan Goodhue](http://www.danielgoodhue.com/)
 
-<!-- /wp:html -->
 

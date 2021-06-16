@@ -3,6 +3,7 @@ layout: post
 title: prosodylab at WCCFL
 date: 2016-04-28 14:30:46.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

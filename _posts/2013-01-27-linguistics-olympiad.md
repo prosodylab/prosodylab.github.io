@@ -3,6 +3,7 @@ layout: post
 title: linguistics olympiad
 date: 2013-01-27 13:51:55.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

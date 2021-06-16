@@ -3,6 +3,7 @@ layout: post
 title: another paper in laboratory phonology
 date: 2017-07-14 09:26:36.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

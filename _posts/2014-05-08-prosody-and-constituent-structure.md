@@ -3,6 +3,7 @@ layout: post
 title: prosody and constituent structure
 date: 2014-05-08 16:08:34.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

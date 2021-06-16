@@ -3,6 +3,7 @@ layout: post
 title: eye-tracking/convocation
 date: 2012-06-17 20:01:17.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

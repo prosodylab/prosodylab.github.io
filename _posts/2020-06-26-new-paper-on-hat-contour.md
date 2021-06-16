@@ -3,6 +3,7 @@ layout: post
 title: new paper on hat contour
 date: 2020-06-26 15:05:54.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

@@ -4,6 +4,7 @@ title: prosodic focus
 date: 2020-11-20 13:46:54.000000000 -05:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish

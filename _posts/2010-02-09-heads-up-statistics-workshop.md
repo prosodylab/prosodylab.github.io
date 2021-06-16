@@ -4,6 +4,7 @@ title: 'heads-up: statistics workshop'
 date: 2010-02-09 13:38:36.000000000 -05:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish

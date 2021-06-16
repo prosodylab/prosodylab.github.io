@@ -9,6 +9,7 @@ password: ''
 status: publish
 categories:
 - conferences
+excerpt_separator: "<!--more-->"
 tags: []
 meta:
   _edit_last: '2'

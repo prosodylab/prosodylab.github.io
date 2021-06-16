@@ -3,6 +3,8 @@ layout: post
 title: 'etap 2: Prosody in Context'
 date: 2011-03-04 00:48:30.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
+parent_id: '0'
 parent_id: '0'
 published: true
 password: ''

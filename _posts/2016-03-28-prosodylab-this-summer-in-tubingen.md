@@ -3,6 +3,7 @@ layout: post
 title: prosodylab this summer in Tübingen
 date: 2016-03-28 15:50:22.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

@@ -3,6 +3,7 @@ layout: post
 title: does language shape thought?
 date: 2010-12-15 10:37:21.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

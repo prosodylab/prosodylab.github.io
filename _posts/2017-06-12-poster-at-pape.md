@@ -3,6 +3,7 @@ layout: post
 title: Poster at PaPE
 date: 2017-06-12 21:26:12.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

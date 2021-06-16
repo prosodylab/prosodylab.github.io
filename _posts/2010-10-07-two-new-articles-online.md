@@ -4,6 +4,7 @@ title: two new articles online
 date: 2010-10-07 09:56:14.000000000 -04:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish

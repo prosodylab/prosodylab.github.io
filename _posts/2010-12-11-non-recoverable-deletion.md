@@ -4,6 +4,7 @@ title: non-recoverable deletion
 date: 2010-12-11 10:17:45.000000000 -05:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish

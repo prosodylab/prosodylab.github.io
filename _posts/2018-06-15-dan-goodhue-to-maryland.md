@@ -3,6 +3,7 @@ layout: post
 title: dan goodhue to maryland
 date: 2018-06-15 05:36:49.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

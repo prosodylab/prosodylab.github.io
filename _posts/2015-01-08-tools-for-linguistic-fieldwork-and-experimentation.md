@@ -3,6 +3,7 @@ layout: post
 title: Tools for Linguistic Fieldwork and Experimentation
 date: 2015-01-08 01:01:31.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

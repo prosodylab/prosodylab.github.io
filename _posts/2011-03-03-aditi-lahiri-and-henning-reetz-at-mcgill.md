@@ -3,6 +3,7 @@ layout: post
 title: Aditi Lahiri and Henning Reetz at McGill
 date: 2011-03-03 13:09:03.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''
@@ -32,6 +33,8 @@ Rosalind and Morris Goodman Cancer Research Centre, Montreal
 
 > Abstract:  
 > Language systems abound in asymmetries — in inventories, representations and rules. These asymmetries affect language processing and language change. For instance, it is most unusual to have equal number of consonant and vowel phonemes in any given language; languages has retroflex nasals also include dental/alveolar nasals.Velar obstruents become coronals in the context of high front vowels, but never the other way around; nuclear phrasal stress in a neutral sentence is always assigned on the last phonological phrase, never the first one. The question we raise in this talk is how are these asymmetries constrain phonological and morphological representations of WORDS in the mental lexicon, and how these constraints affect language processing and change. I will address asymmetries in various phonological domains: featural contrasts, morphophonological opacity and sentence phonology, providing theoretical and experimental evidence from behavioural as well as brain imaging studies in German, English and Bengali, covering both language comprehension as well language production planning.
+
+<!--more-->
 
 3.30pm [Linguistics Colloquium](http://www.mcgill.ca/linguistics/events/)  
 (same location)

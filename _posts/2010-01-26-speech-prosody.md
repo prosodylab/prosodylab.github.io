@@ -4,6 +4,7 @@ title: speech prosody
 date: 2010-01-26 21:42:50.000000000 -05:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish

@@ -1,0 +1,26 @@
+I"�
+<p>On March 18, Aditi Lahiri and Henning Reetz will be giving talks at McGill.</p>
+
+<p>1.30pm <a href="http://www.mcgill.ca/channels/events/item/?item_id=172083">CLRMB Distinguished Lecture</a><br />
+Rosalind and Morris Goodman Cancer Research Centre, Montreal<br />
+1160, av. des Pins Ouest, Room 501</p>
+
+<p><a href="http://www.ling-phil.ox.ac.uk/lahiri">Aditi Lahiri</a> (Oxford University): WORDS: asymmetries in representation, processing and change</p>
+
+<blockquote>
+  <p>Abstract:<br />
+Language systems abound in asymmetries — in inventories, representations and rules. These asymmetries affect language processing and language change. For instance, it is most unusual to have equal number of consonant and vowel phonemes in any given language; languages has retroflex nasals also include dental/alveolar nasals.Velar obstruents become coronals in the context of high front vowels, but never the other way around; nuclear phrasal stress in a neutral sentence is always assigned on the last phonological phrase, never the first one. The question we raise in this talk is how are these asymmetries constrain phonological and morphological representations of WORDS in the mental lexicon, and how these constraints affect language processing and change. I will address asymmetries in various phonological domains: featural contrasts, morphophonological opacity and sentence phonology, providing theoretical and experimental evidence from behavioural as well as brain imaging studies in German, English and Bengali, covering both language comprehension as well language production planning.</p>
+</blockquote>
+
+<!--more-->
+
+<p>3.30pm <a href="http://www.mcgill.ca/linguistics/events/">Linguistics Colloquium</a><br />
+(same location)</p>
+
+<p><a href="http://menzerath.phonetik.uni-frankfurt.de/staff/reetz/reetz.html">Henning Reetz</a> (Goethe Universität Frankfurt): Representation of words in the FUL-system</p>
+
+<blockquote>
+  <p>Spoken words in running speech are usually never produced in their ‘canonical’ form but come with a wide variation of forms – still they are recognized by a listener with ease. Many models of speech recognition handle this variation by storing many variant forms for one word. The FUL-system (Featurally Underspecified Lexicon) handles this variation in a completely different way, by storing only essential phonological features as one representation of a word. The talk will present details of the signal-to-feature conversion and the mapping of these features with a three-way logic of match, mismatch, and no-mismatch to the lexicon activating possible word candidates. An implementation of this process is demonstrated with a computer program.</p>
+</blockquote>
+
+:ET

@@ -3,6 +3,7 @@ layout: post
 title: Goodhue on responses to polarity questions
 date: 2018-03-28 13:28:35.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

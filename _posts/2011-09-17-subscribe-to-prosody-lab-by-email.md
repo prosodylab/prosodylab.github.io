@@ -3,6 +3,7 @@ layout: post
 title: subscribe to prosody.lab by email
 date: 2011-09-17 09:12:25.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

@@ -3,6 +3,7 @@ layout: post
 title: On the interpretation of reflexive pronouns
 date: 2016-04-28 15:14:27.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

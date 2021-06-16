@@ -5,6 +5,7 @@ date: 2010-10-14 13:36:32.000000000 -04:00
 type: post
 parent_id: '0'
 published: true
+excerpt_separator: "<!--more-->"
 password: ''
 status: publish
 categories:
@@ -26,6 +27,8 @@ The special issue of _Language and Cognitive Processes_ with contribution from t
 _Prosody is the rhythm, stress and intonation of speech, which encodes information that is not encoded by the syntax or words of an utterance. Prosody is critical for parsing speech, constructing syntactic structure, and building a representation of the conversational discourse model, among other linguistic functions._
 
 In 2008, researchers from linguistics, psychology and computer science gathered at the inaugural meeting of the conference on Experimental and Theoretical Approaches to Prosody at Cornell University. The papers in this volume represent the cutting edge of the prosody work presented at that conference.
+
+<!--more-->
 
 The articles in this special issue tackle a number of key questions: What type of information about syntax, semantics, and context is reflected in prosody and intonation? How much of that information can a listener retrieve from the signal? How does this information facilitate language processing in online conversations? How can this information be used to parse corpora, and how can corpora be used to test theories on prosody?
 

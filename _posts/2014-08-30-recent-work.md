@@ -3,6 +3,7 @@ layout: post
 title: recent work
 date: 2014-08-30 20:57:01.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

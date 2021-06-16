@@ -3,6 +3,7 @@ layout: post
 title: accented pronouns
 date: 2014-04-11 01:50:39.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

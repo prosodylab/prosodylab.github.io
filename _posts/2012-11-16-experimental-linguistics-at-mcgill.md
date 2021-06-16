@@ -3,6 +3,7 @@ layout: post
 title: experimental linguistics at mcgill
 date: 2012-11-16 11:03:45.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''
@@ -22,6 +23,8 @@ author:
 permalink: "/2012/experimental-linguistics-at-mcgill/"
 ---
 Note that the deadline for applications to our graduate programs is approaching fast: **December 15!**. Here's some information about recent changes in our program.
+
+<!--more-->
 
 The McGill Graduate Program in Linguistics has recently undergone significant restructuring and expansion, which should make it more appealing to students interested in experimental research.
 

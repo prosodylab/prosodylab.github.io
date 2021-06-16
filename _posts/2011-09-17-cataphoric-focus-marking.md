@@ -3,6 +3,7 @@ layout: post
 title: cataphoric focus marking
 date: 2011-09-17 10:16:28.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

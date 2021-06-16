@@ -5,6 +5,7 @@ date: 2010-03-23 10:02:35.000000000 -04:00
 type: post
 parent_id: '0'
 published: true
+excerpt_separator: "<!--more-->"
 password: ''
 status: publish
 categories:

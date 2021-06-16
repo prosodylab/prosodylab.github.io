@@ -4,6 +4,7 @@ title: workshop on focus and topic at glow 34 in vienna
 date: 2010-09-12 15:31:12.000000000 -04:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish

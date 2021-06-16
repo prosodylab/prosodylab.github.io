@@ -3,6 +3,7 @@ layout: post
 title: two conferences in montréal
 date: 2012-05-01 00:08:28.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

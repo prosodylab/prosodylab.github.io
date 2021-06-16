@@ -3,6 +3,7 @@ layout: post
 title: Sara Mackenzie Talk
 date: 2011-03-03 15:04:53.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

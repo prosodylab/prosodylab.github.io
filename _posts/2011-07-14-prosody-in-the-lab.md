@@ -4,6 +4,7 @@ title: prosody in the lab
 date: 2011-07-14 16:35:37.000000000 -04:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish

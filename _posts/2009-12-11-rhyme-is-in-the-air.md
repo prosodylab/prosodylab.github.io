@@ -5,6 +5,7 @@ date: 2009-12-11 13:03:32.000000000 -05:00
 type: post
 parent_id: '0'
 published: true
+excerpt_separator: "<!--more-->"
 password: ''
 status: publish
 categories:
@@ -30,6 +31,9 @@ A rhyme is usually defined as a pair of words that are identical from the last a
 A simple illustration of the cross-linguistic differences: One way we try to compare usage of rhyme across languages is to look translations of rhymed poetry. We have been collecting translations of the illustrated children's book 'Max & Moritz' by Wilhelm Busch (first published in German in 1865).
 
 ![max & Moritz]({{ site.baseurl }}/assets/images/2009/12/maxmoritz.jpg)
+
+
+<!--more-->
 
 We find quite a difference in the frequency of occurrence of different rhyme types. The translations we have numbers for so far are from about 30 years ago Obviously, the actual numbers don't mean much, and we'll have to see whether the overall difference is consistent across the various translations into the two languages. Also, there could be differences depending on genre. Max & Moritz is rather colloquial, which we thought was an advantage, since translators might feel less obliged to follow what is considered prestige-rhyming in the target language. However, in our experience so far it seems to be quite clear that the languages differ dramatically with respect to identity rhyme (but apparently not with respect to rime riche):
 

@@ -4,6 +4,7 @@ title: some prosody stuff at cns
 date: 2010-04-13 13:46:59.000000000 -04:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish
@@ -21,6 +22,8 @@ author:
 permalink: "/2010/some-stuff-at-cns/"
 ---
 The[CNS annual meeting in Montréal](http://www.cnsmeeting.org/index.php?Page=home.php) is looming. Here are some links to prosody-related posters from the website. This list is not intended to be complete in any way, it's just what I saw while gleaning through the list in the last 15min:
+
+<!--more-->
 
 **_Session D Sunday April 18 5:00 - 7:00 pm_**
 

@@ -6,6 +6,7 @@ type: post
 parent_id: '0'
 published: true
 password: ''
+excerpt_separator: "<!--more-->"
 status: publish
 categories:
 - conferences

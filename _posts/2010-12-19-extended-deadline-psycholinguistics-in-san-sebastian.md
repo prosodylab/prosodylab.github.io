@@ -3,6 +3,7 @@ layout: post
 title: 'extended deadline: psycholinguistics in san sebastian'
 date: 2010-12-19 15:10:24.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

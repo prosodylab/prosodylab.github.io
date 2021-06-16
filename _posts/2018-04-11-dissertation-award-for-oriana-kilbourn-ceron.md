@@ -3,6 +3,7 @@ layout: post
 title: Dissertation award for Oriana Kilbourn-Ceron
 date: 2018-04-11 16:31:36.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

@@ -3,6 +3,7 @@ layout: post
 title: Prosodylab Aligner Demo
 date: 2013-06-05 17:14:01.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

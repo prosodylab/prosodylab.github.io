@@ -3,6 +3,8 @@ layout: post
 title: richard aslin at mcgill
 date: 2011-03-31 21:58:13.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
+parent_id: '0'
 parent_id: '0'
 published: true
 password: ''

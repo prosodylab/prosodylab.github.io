@@ -4,6 +4,7 @@ title: Lila Gleitman and Norvin Richards at McGill
 date: 2010-09-12 19:16:33.000000000 -04:00
 type: post
 parent_id: '0'
+excerpt_separator: "<!--more-->"
 published: true
 password: ''
 status: publish

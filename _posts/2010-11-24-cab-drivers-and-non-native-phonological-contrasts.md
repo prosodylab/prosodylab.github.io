@@ -3,6 +3,7 @@ layout: post
 title: cab drivers and non-native phonological contrasts
 date: 2010-11-24 18:57:35.000000000 -05:00
 type: post
+excerpt_separator: "<!--more-->"
 parent_id: '0'
 published: true
 password: ''

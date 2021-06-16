@@ -3,6 +3,8 @@ layout: post
 title: prosody.lab at cuny
 date: 2011-03-25 13:19:48.000000000 -04:00
 type: post
+excerpt_separator: "<!--more-->"
+parent_id: '0'
 parent_id: '0'
 published: true
 password: ''
