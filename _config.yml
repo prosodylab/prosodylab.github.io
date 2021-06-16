@@ -13,7 +13,7 @@ author:
   name:           'MW'
   url:            https://mchlwgnr.github.io
 
-paginate:         5
+paginate:         10
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
