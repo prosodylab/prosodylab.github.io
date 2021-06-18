@@ -144,4 +144,4 @@ Steffani Scheer. McGill '09, project on topicalization. Lab Manager 2009-2010.
 
 ****
 
-[![christophwagner]({{ site.baseurl }}/assets/images/2009/12/lb.jpg)](http://www.christophwagner.co.uk)
+<a href="http://www.wagner.co.uk/"><img src="{{ site.baseurl }}/assets/images/2009/12/lb.jpg" width="200" /></a>

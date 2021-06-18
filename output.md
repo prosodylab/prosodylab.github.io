@@ -16,10 +16,6 @@ See also the 'about' page for theses and related single-authored publications by
 
 Hirsch, Aron & Michael Wagner. Variable prosodic phrasing in a theory of incremental production planning. Ms., MIT/McGill. [[paper]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm9uaGlyc2NoMXxneDo2NWU2OWM3ZTk5ZTM5ZTA5)
 
-Wagner, Michael (submitted).&nbsp; Two-dimensional parsing of the acoustic stream explains the iambic-trochaic law. [[draft](http://doi.org/10.17605/OSF.IO/RWBYH)]
-
-Wagner, Michael, Alvaro Iturralde Zurita, and Sijia Zhang (2021). Two dimensional parsing, the iambic trochaic law, and the typology of rhythm. Short Talk presented at the CUNY Sentence Processing Conference, UPenn [[abstract](https://osf.io/q56fp/)]&nbsp; [[slides](http://prosodylab.org/data/bestiary/cuny2021/)]
-
 Wagner, Michael, Josiane Lachapelle, & Oriana Kilbourn-Ceron.&nbsp; Liaison and production planning. Poster presentation on July 6 at LabPhon 17, University of British Columbia [[draft June 26 2020](http://prosodylab.org/~chael/papers/wagner_lachapelle_kilbourn-ceron_Labhon2020.pdf)]
 
 Wagner, Michael (reporting on joint work with Dan Goodhue) 2020: Toward an intonational bestiary. Colloquium talk at University of Victoria. [[slides](http://prosodylab.org/data/bestiary/uvic/)]
@@ -27,6 +23,16 @@ Wagner, Michael (reporting on joint work with Dan Goodhue) 2020: Toward an inton
 Wagner, Michael. Even and the syntax of additivity. Colloquium talk given at University of Chicago on December &nbsp;2015. [[handout](http://prosodylab.org/~chael/papers/wagner15chicago.pdf)].
 
 Wagner, Michael (2020). Encoding a semantic contrast requires phonological contrast in English but not in French. Poster presented at the 61st Annual Conference of the Psychonomic Society on Nov 19 2020. [[poster](https://prosodylab.org/~chael/papers/wagner_homophone_2020.pdf)]
+
+
+**2021**
+
+Wagner, M. (in press). Two-dimensional parsing explains the iambic-trochaic law. Psychological Review. [[paper](https://osf.io/vtne6/)]
+
+Gerazov B. and M. Wagner (in press). ProsoBeast Prosody Annotation Tool. Proceedings of Insterspeech in Brno. ArXiv e-prints. [[paper]](https://arxiv.org/abs/2104.02397) [[git]](https://github.com/prosodylab/prosobeast-annotation-tool)
+
+Wagner, M., Iturralde Zurita, A., and Zhang, S. (in press). Parsing speech for grouping and prominence, and the typology of rhythm. Proceedings of Insterspeech in Brno. [[paper]](http://prosodylab.org/~chael/papers/wagneretal21typology.pdf)
+
 
 **2020**
 

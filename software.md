@@ -19,7 +19,7 @@ Gorman, K., Howell, J., and Wagner, M. (2011). Prosodylab-aligner: A tool for fo
 
 
 [**ProsoBeast:**](https://github.com/prosodylab/prosobeast-annotation-tool)     
-Gerazov B. and M. Wagner, “ProsoBeast Prosody Annotation Tool,” submitted to Interspeech 2021, in ArXiv e-prints, 6 Apr 2021. [[paper]](https://arxiv.org/abs/2104.02397) [[git]](https://github.com/prosodylab/prosobeast-annotation-tool)
+Gerazov B. and M. Wagner, “ProsoBeast Prosody Annotation Tool,” submitted to Interspeech 2021, in ArXiv e-prints. [[paper]](https://arxiv.org/abs/2104.02397) [[git]](https://github.com/prosodylab/prosobeast-annotation-tool)
 
 
 [**ProsodylabExperimenter:**](http://github.com/prosodylab/prosodylabExperimenter)     
