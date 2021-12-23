@@ -8,7 +8,7 @@ sidebar_link: true
 This page summarizes a few representative current projects. 
 </p>
 
-One current project: [The intonational Bestiary](http://prosodylab.org/data/bestiary/bestiary-risingcontours/)
+
 
 **Current Grants:**
 

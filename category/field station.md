@@ -2,6 +2,7 @@
 layout: category
 category-name: field station
 title: field station
+permalink: /fieldstation/
 ---
 
 <p class="message">

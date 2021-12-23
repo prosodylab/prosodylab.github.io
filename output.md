@@ -5,16 +5,23 @@ sidebar_link: true
 ---
 
 <p class="message">
-See also the 'about' page for theses and related single-authored publications by students
+See also the 'about' page for a list of supervised student theses
 </p>
 
 
 
 **Presentations and work in progress**
 
-[Arto Anttila](https://web.stanford.edu/~anttila/)&nbsp; & Michael Wagner (2021). [What is deaccentuation](https://glowlinguistics.org/44/wp-content/uploads/sites/8/2021/02/abstract-debate-deaccentuation.pdf)? Targeted Collaborative Debate at GLOW 44 [[slides](http://prosodylab.org/~chael/papers/anttilawagner2021glow44.pdf)]
 
-Hirsch, Aron & Michael Wagner. Variable prosodic phrasing in a theory of incremental production planning. Ms., MIT/McGill. [[paper]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm9uaGlyc2NoMXxneDo2NWU2OWM3ZTk5ZTM5ZTA5)
+Wagner, Michael (2021). Toward an alternative(s) syntax: Projecting and operating over syntactic alternatives. Colloqium Talk at Michigan State University, October 14 2021 [[handout]](https://osf.io/h9cxn/)
+
+[Anttila, Arto](https://web.stanford.edu/~anttila/)&nbsp; & Michael Wagner (2021). [What is deaccentuation](https://glowlinguistics.org/44/wp-content/uploads/sites/8/2021/02/abstract-debate-deaccentuation.pdf)? Targeted Collaborative Debate at GLOW 44 [[slides](http://prosodylab.org/~chael/papers/anttilawagner2021glow44.pdf)]
+
+[Göbel, Alexander](https://alexgoebel.wordpress.com/) & Michael Wagner (2021). Syntactic and Prosodic Factors in the Interpretation of Ambiguous 'at Least'. Talk presented at [Amlap 2021](https://amlap2021.github.io/program/index.html), September 2rd. [[slides](https://alexgoebel.files.wordpress.com/2021/09/amlap2021_slides.pdf)]
+
+
+[Hirsch, Aron](https://sites.google.com/view/aronhirsch/home) & Michael Wagner. Variable prosodic phrasing in a theory of incremental production planning. Ms., MIT/McGill. [[paper]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm9uaGlyc2NoMXxneDo2NWU2OWM3ZTk5ZTM5ZTA5)
+
 
 Wagner, Michael, Josiane Lachapelle, & Oriana Kilbourn-Ceron.&nbsp; Liaison and production planning. Poster presentation on July 6 at LabPhon 17, University of British Columbia [[draft June 26 2020](http://prosodylab.org/~chael/papers/wagner_lachapelle_kilbourn-ceron_Labhon2020.pdf)]
 
@@ -24,14 +31,18 @@ Wagner, Michael. Even and the syntax of additivity. Colloquium talk given at Uni
 
 Wagner, Michael (2020). Encoding a semantic contrast requires phonological contrast in English but not in French. Poster presented at the 61st Annual Conference of the Psychonomic Society on Nov 19 2020. [[poster](https://prosodylab.org/~chael/papers/wagner_homophone_2020.pdf)]
 
+Wagner, Michael (2021). The syntax and prosody associated with German gender gaps. Short talk at [Amlap 2021](https://amlap2021.github.io/program/index.html) September 3 [[abstract](https://amlap2021.github.io/program/211.pdf)] [[slides](http://prosodylab.org/~chael/papers/wagner21gender_slides.pdf)] [[osf](https://osf.io/wyrd5/)]
+
+Wagner, Michael (2021). Why predictability is not predictive without a linguistic theory and a theory of processing. The case of external sandhi. Talk presented at Universität des Saarlandes, July 15 2021. Reporting on joint work with [Oriana Kilbourn-Ceron](https://orianakilbournceron.com/) and others [[slides]](http://prosodylab.org/~chael/papers/wagner21predictability.pdf)
+
 
 **2021**
 
-Wagner, M. (in press). Two-dimensional parsing explains the iambic-trochaic law. Psychological Review. [[paper](https://osf.io/vtne6/)]
+Wagner, M. (2021). Two-dimensional parsing explains the iambic-trochaic law. Psychological Review. Advance online publication [[doi](https://doi.org/10.1037/rev0000302)] [[paper](https://osf.io/vtne6/)]
+    
+Gerazov B. and M. Wagner (2021). ProsoBeast Prosody Annotation Tool. Proceedings of Interspeech. 2621--2625 [[doi]](doi.org/10.21437/Interspeech.2021-304 )[[archive]](https://arxiv.org/abs/2104.02397) [[git]](https://github.com/prosodylab/prosobeast-annotation-tool) [[video]](https://www.youtube.com/embed/I7Wk5zTwbmY)
 
-Gerazov B. and M. Wagner (in press). ProsoBeast Prosody Annotation Tool. Proceedings of Insterspeech in Brno. ArXiv e-prints. [[paper]](https://arxiv.org/abs/2104.02397) [[git]](https://github.com/prosodylab/prosobeast-annotation-tool)
-
-Wagner, M., Iturralde Zurita, A., and Zhang, S. (in press). Parsing speech for grouping and prominence, and the typology of rhythm. Proceedings of Insterspeech in Brno. [[paper]](http://prosodylab.org/~chael/papers/wagneretal21typology.pdf)
+Wagner, M., Iturralde Zurita, A., and Zhang, S. (2021). Parsing speech for grouping and prominence, and the typology of rhythm. Proceedings of Interspeech. 2656--2660 [[doi]](doi.org/10.21437/Interspeech.2021-1684) [[lingbuzz]](https://ling.auf.net/lingbuzz/006148/current.pdf?_s=cMcQP6SX4UyeofCf) [[interactive slides]](http://prosodylab.org/data/bestiary/interspeech2021/) [[static slides]](http://prosodylab.org/~chael/papers/wagneretal2021rhythmtypology_slides.pdf) [[video]](https://www.youtube.com/embed/dJ9n_8QI3Rc)
 
 
 **2020**
@@ -49,6 +60,8 @@ Wagner, M. (in press). Prosodic focus. In Gutzmann, D., Matthewson, L., Meier, C
 [Hirsch, Aron](http://sites.google.com/view/aronhirsch/home) and Michael Wagner. _Only_ reconstruction and backwards association. Proceedings of the Amsterdam Colloquium. [[paper](http://events.illc.uva.nl/AC/AC2019/uploaded_files/inlineitem/Hirsch_and_Wagner_Only_reconstruction_and_backwards.pdf)]
 
 [Keine, Stefan](http://www-bcf.usc.edu/~keine/), Michael Wagner, and&nbsp;[Jessica](http://jessica.lingspace.org/)[Coon](http://jessica.lingspace.org/), (2019). Hierarchy effects in copula constructions. Canadian Journal of Linguistics. [[doi](http://doi.org/10.1017/cnj.2019.28)]
+
+McAuliffe, M., Coles, A., Goodale, M., Mihuc, S., Wagner, M., Stuart-Smith, J., and Sonderegger, M. (2019). ISCAN: A system for integrated phonetic analyses across speech corpora. In Proceedings of the 19th International Congress of Phonetic Sciences, pages 1322–1326. [[pdf]](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2019/papers/ICPhS_1371.pdf8)
 
 [Santi, Andrea](http://www.ucl.ac.uk/pals/people/andrea-santi),&nbsp;[Nino Grillo](http://www.york.ac.uk/language/people/academic-research/nino-grillo/), Emilia Molimpakis & [Michael Wagner](http://prosodylab.org/lab/) (2019)&nbsp;Processing relative clauses across comprehension and production: similarities and differences, Language, Cognition and Neuroscience, [[doi](http://doi.org/10.1080/23273798.2018.1513539)]
 

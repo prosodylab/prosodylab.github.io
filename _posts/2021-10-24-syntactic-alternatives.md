@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Toward an alternative(s) syntax"
+excerpt_separator: "<!--more-->"
+categories:
+  - news
+tags:
+  - talk
+last_modified_at: 2021-10-24
+---
+
+Wagner, Michael (2021). Toward an alternative(s) syntax: Projecting and operating over syntactic alternatives. Colloqium Talk at Michigan State University, October 14 2021 [[handout]](https://osf.io/h9cxn/)
+
+**Abstract:** Many grammatical phenomena have been analyzed based on the assumption that constituents can introduce semantic alternatives, and that these alternatives can project by point-wise semantic composition, following Hamblin's 1973 analysis of questions.  This talk presents arguments that linguistics expressions can also introduce syntactic alternatives, that these alternatives can "project" in a point-wise fashion to create larger linguistic expressions, and that grammar can operate over sets of linguistic expressions. This syntactic view of alternatives is compatible with Katzir's 2007 independent arguments that alternatives are, at least sometimes, structural. The evidence comes from data involving prosodic focus, association with focus, disjunction, and coordination. 

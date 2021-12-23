@@ -10,14 +10,11 @@ tags:
 
 Another interspeech paper, this on the iambic-trochaic law and the typology of rhythm:
 
-
-Wagner, M., Iturralde Zurita, A., and Zhang, S. (in press). Parsing speech for grouping and prominence, and the typology of rhythm. Proceedings of Insterspeech in Brno. [[paper]](http://prosodylab.org/~chael/papers/wagneretal21typology.pdf)
-
-You can try out a version of the experiment at [prosodylab field station](prosodylab.org/fieldstation)!
-
+Wagner, M., Iturralde Zurita, A., and Zhang, S. (2021). Parsing speech for grouping and prominence, and the typology of rhythm. Proceedings of Interspeech. 2656--2660 [[doi]](doi.org/10.21437/Interspeech.2021-1684) [[lingbuzz]](https://ling.auf.net/lingbuzz/006148/current.pdf?_s=cMcQP6SX4UyeofCf) [[interactive slides]](http://prosodylab.org/data/bestiary/interspeech2021/) [[static slides]](http://prosodylab.org/~chael/papers/wagneretal2021rhythmtypology_slides.pdf) [[video]](https://www.youtube.com/embed/dJ9n_8QI3Rc)
 
 <img src="{{ site.baseurl }}/assets/images/2021/06/rhythmtypology.png" width="500">
 
+**Abstract:**
 
 > Humans appear to be wired to perceive acoustic events rhythmically.  
  English speakers, for example,  tend to perceive alternating short and long sounds as  a series of binary groups with a final beat (iambs), and alternating soft and loud sounds as a series of trochees. 
@@ -28,5 +25,18 @@ You can try out a version of the experiment at [prosodylab field station](prosod
  However, there are also invariances:
 Duration appears relatively robust across languages as a cue to prominence (longer syllables are perceived as stressed), and intensity for grouping (louder syllables are perceived as initial).
  The results show the beginnings of a rhythmic typology based on how the dimensions of grouping and prominence are cued.
+ 
+
+A 3 min video presentation of the paper is available here:
+
+
+<iframe width="600" height="520" src="https://www.youtube.com/embed/dJ9n_8QI3Rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+You can try out a version of the experiment at the [prosodylab field station](http://www.prosodylab.org/lab/fieldstation/)!
+
+
+
 
 

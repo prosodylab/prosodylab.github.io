@@ -1,0 +1,23 @@
+I"
+	<p class="message">
+  This page lists tools developed in our lab, or in collaboration with other labs
+</p>
+
+<p><br /></p>
+
+<p><a href="http://montreal-forced-aligner.readthedocs.io/en/latest/"><strong>Montreal Forced Aligner:</strong></a>   <br />
+McAuliffe, M., Socolof, M., Mihuc, S., Wagner, M., and Sonderegger, M. (2017). Montreal forced aligner: trainable text-speech alignment using Kaldi. In Proceedings of Interspeech 2017 in Stockholm. <a href="http://dx.doi.org/10.21437/Interspeech.2017-1386">[doi]</a> <a href="http://montreal-forced-aligner.readthedocs.io/en/latest/">[docs]</a></p>
+
+<p><a href="http://github.com/prosodylab/Prosodylab-Aligner"><strong>Prosodylab-Aligner:</strong></a>    <br />
+Gorman, K., Howell, J., and Wagner, M. (2011). Prosodylab-aligner: A tool for forced alignment of laboratory speech. volume 39, pages 192–193. <a href="http://jcaa.caa-aca.ca/index.php/jcaa/article/view/2476/2225">[paper]</a> <a href="http://github.com/prosodylab/Prosodylab-Aligner">[git]</a></p>
+
+<p><a href="https://github.com/prosodylab/prosobeast-annotation-tool"><strong>ProsoBeast:</strong></a>   <br />
+Gerazov B. and M. Wagner (2021). ProsoBeast Prosody Annotation Tool. Proceedings of Interspeech. 2621–2625 <a href="doi.org/10.21437/Interspeech.2021-304">[doi]</a><a href="https://arxiv.org/abs/2104.02397">[archive]</a> <a href="https://github.com/prosodylab/prosobeast-annotation-tool">[git]</a> <a href="https://www.youtube.com/embed/I7Wk5zTwbmY">[video]</a></p>
+
+<p><a href="http://github.com/prosodylab/prosodylabExperimenter"><strong>ProsodylabExperimenter:</strong></a>   <br />
+A spreadsheet-in spreadsheet-out tool for running online experiments<br />
+Wagner, M. (2021). ProsodylabExperimenter. a spreadsheet-in spreadsheet-out tool for running online experiments. <a href="https://github.com/prosodylab/prosodylab-experimenter">[git]</a></p>
+
+<p><a href="https://github.com/prosodylab/prosodylab-offline-experimenter"><strong>Prosodylab offline experimenter:</strong></a>   <br />
+Matlab scripts to run simple experiments. (As of 2019, there were compatibility issues between the Psychtoolbox and the then current Mac operating system, which is one of many reasons why we moved to javascript) <a href="https://github.com/prosodylab/prosodylab-offline-experimenter">[git]</a></p>
+:ET

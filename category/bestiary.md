@@ -1,6 +1,7 @@
 ---
 layout: category
 title: bestiary
+permalink: /bestiary/
 ---
 
 <p class="message">

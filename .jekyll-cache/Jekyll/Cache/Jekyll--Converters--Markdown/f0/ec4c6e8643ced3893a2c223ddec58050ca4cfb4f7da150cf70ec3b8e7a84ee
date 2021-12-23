@@ -1,0 +1,28 @@
+I"
+<p>Another interspeech paper, this on the iambic-trochaic law and the typology of rhythm:</p>
+
+<p>Wagner, M., Iturralde Zurita, A., and Zhang, S. (2021). Parsing speech for grouping and prominence, and the typology of rhythm. Proceedings of Interspeech. 2656–2660 <a href="doi.org/10.21437/Interspeech.2021-1684">[doi]</a> <a href="https://ling.auf.net/lingbuzz/006148/current.pdf?_s=cMcQP6SX4UyeofCf">[lingbuzz]</a> <a href="http://prosodylab.org/data/bestiary/interspeech2021/">[interactive slides]</a> <a href="http://prosodylab.org/~chael/papers/wagneretal2021rhythmtypology_slides.pdf">[static slides]</a> <a href="https://www.youtube.com/embed/dJ9n_8QI3Rc">[video]</a></p>
+
+<p><img src="/lab/assets/images/2021/06/rhythmtypology.png" width="500" /></p>
+
+<p><strong>Abstract:</strong></p>
+
+<blockquote>
+  <p>Humans appear to be wired to perceive acoustic events rhythmically.<br />
+ English speakers, for example,  tend to perceive alternating short and long sounds as  a series of binary groups with a final beat (iambs), and alternating soft and loud sounds as a series of trochees. 
+ This generalization, often called the ‘Iambic-trochaic Law’ (ITL), although viewed as an auditory universal by some, has been argued to be shaped by language experience.<br />
+ Earlier work on the ITL had a crucial limitation, in that it did not tease apart the percepts of grouping and prominence, which the notions of iamb and trochee inherently confound.
+ We explore how intensity and duration relate to percepts of prominence and grouping in six languages (English, French, German, Japanese, Mandarin, and Spanish). 
+ The results show that the ITL is not universal, and that  cue interpretation is shaped by language experience. 
+ However, there are also invariances:
+Duration appears relatively robust across languages as a cue to prominence (longer syllables are perceived as stressed), and intensity for grouping (louder syllables are perceived as initial).
+ The results show the beginnings of a rhythmic typology based on how the dimensions of grouping and prominence are cued.</p>
+</blockquote>
+
+<p>A 3 min video presentation of the paper is available here:</p>
+
+<iframe width="600" height="520" src="https://www.youtube.com/embed/dJ9n_8QI3Rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>You can try out a version of the experiment at the <a href="http://www.prosodylab.org/lab/fieldstation/">prosodylab field station</a>!</p>
+
+:ET

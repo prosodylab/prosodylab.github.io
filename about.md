@@ -26,7 +26,7 @@ Investigating prosody requires integrating insights from different disciplines, 
 
 ***
 
-**Principal Investigator:** [Michael Wagner](http://www.mcgill.ca/linguistics/people/faculty/wagner) [![ORCID iD icon]({{ site.baseurl }}/assets/images/2012/06/orcid_16x16.png)](https://orcid.org/0000-0003-2953-106X) [[CV]](http://prosodylab.cs.mcgill.ca/~chael/cv.pdf)
+**Principal Investigator:** [Michael Wagner](http://www.mcgill.ca/linguistics/people/faculty/wagner) [![ORCID iD icon]({{ site.baseurl }}/assets/images/2012/06/orcid_16x16.png)](https://orcid.org/0000-0003-2953-106X) [[CV]](http://prosodylab.cs.mcgill.ca/~chael/cv_wagner.pdf) <img src="{{ site.baseurl }}/assets/images/2021/06/chael@mcgill.ca.png" alt="img" style="width:190px;justify-content: center;margin-top: 18px;"> 
 
 ### Current postdocs/graduate students:
 
