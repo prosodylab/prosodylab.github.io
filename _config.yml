@@ -11,7 +11,7 @@ url:              https://prosodylab.github.io/
 baseurl:          /
 
 author:
-  name:           'MW'
+  name:           'Michael Wagner'
   url:            https://mchlwgnr.github.io
 
 paginate:         10
