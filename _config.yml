@@ -7,7 +7,7 @@ remote_theme:     fongandrew/hydeout
 title:            prosodylab
 tagline:          'prosodylab'
 description:      'a research lab at mcgill'
-url:              https://prosodylab.org
+url:              https://prosodylab.github.io/
 baseurl:          /lab
 
 author:
