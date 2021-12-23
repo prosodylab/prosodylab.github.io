@@ -8,7 +8,7 @@ title:            prosodylab
 tagline:          'prosodylab'
 description:      'a research lab at mcgill'
 url:              https://prosodylab.github.io/
-baseurl:          /lab
+baseurl:          /
 
 author:
   name:           'MW'
